@@ -27,7 +27,7 @@ a long term store of value as a hedge against inflation.
 Here is the Dow Jones Industrial average and the price of gold over time:
 
 .. image:: price.svg
-    :width: 80%
+    :width: 100%
     :align: center
 
 As you can see the price of both assets has climbed considerably over the last 
@@ -39,7 +39,7 @@ Now if the Dow is normalized to the price of gold we can see that true return of
 the stock market over the last 200 years:
 
 .. image:: ratio.svg
-    :width: 80%
+    :width: 100%
     :align: center
 
 This shows that the expected returns of the market in real terms are quite 
