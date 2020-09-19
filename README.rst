@@ -4,8 +4,8 @@ Market Returns Adjusted for Inflation
 It is a maxim of investing that the stock market is risky but if you leave your 
 money in over the long run it reliably provides the excellent returns.  `Visual 
 Capitalist 
-<https://advisor.visualcapitalist.com/historical-stock-market-returns>`_pegs the 
-rate of return at over 8% when averaged over 200 years.  Such returns allow 
+<https://advisor.visualcapitalist.com/historical-stock-market-returns>`_ pegs 
+the rate of return at over 8% when averaged over 200 years.  Such returns allow 
 investors to beat inflation and build a nest egg if they keep their money in the 
 market for decades.  But they leave one question unanswered: what are the 
 expected returns adjusted for inflation.  This document attempts to get a handle 
