@@ -100,12 +100,12 @@ With inflation removed, the true return is revealed to be 5%.
 
 What this shows is that one must carefully consider inflation when looking at 
 long-term expected returns in the market.  The true returns are considerably 
-less that what are generally advertised, which of course if very important to 
+less that what are generally advertised, which of course is very important to 
 understand when planning for the long term.  These returns also come with 
 substantial volatility, which can be hugely problematic. Imagine investing 
-a substantial amount of money in 1927 for a planned retirement in 1980 only to 
-find that after 50 years it only has one fifth the value in real terms of what 
-you originally invested.
+a substantial amount of money into the S&P 500 in 1927 for a planned retirement 
+in 1980 only to find that after 50 years it only has one fifth the value in real 
+terms of what you originally invested.
 
 
 Bitcoin
