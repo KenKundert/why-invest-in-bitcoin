@@ -173,8 +173,13 @@ today have already run up in value. For example, consider Apple. The total value
 of Apple stock is $2T. A great company, but just how much greater can it become?  
 To exhibit a 1000× increase, it would have to become substantially larger than 
 the entire world's economy.  Apple has been a great stock to own in the past, 
-but now its growth is limited.  What is unusual about bitcoin is that it is 
-currently relatively small but has a huge $200T total available market, and it 
-benefits from the network effect.  It currently represent a huge opportunity 
-that is larger than anything that has come before and likely larger than 
-anything that will ever occur in the future.
+but now its growth is limited; it is near the end of its range.  What is unusual 
+about bitcoin is that it is at the beginning of its range. It is relatively 
+small at the moment but has a vast $200T total available market, and it benefits 
+from the network effect, which causes it both to grow quickly and repel 
+competitors.  It currently represent an unprecedented opportunity for those that 
+see it and get in early.
+
+My advice to everyone is that they should get one and hold on. A single bitcoin 
+currently represents a modest investment of $11k.  But if it does replace the 
+dollar, it could provide enough money to secure your future.
