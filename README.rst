@@ -175,11 +175,13 @@ To exhibit a 1000× increase, it would have to become substantially larger than
 the entire world's economy.  Apple has been a great stock to own in the past, 
 but now its growth is limited; it is near the end of its range.  What is unusual 
 about bitcoin is that it is at the beginning of its range. It is relatively 
-small at the moment but has a vast $200T total available market, and it benefits 
-from the network effect, which causes it both to grow quickly and repel 
-competitors.  It currently represent an unprecedented opportunity for those that 
-see it and get in early.
+small at the moment but has a vast $200T total available market.  It also 
+benefits from the network effect, which causes it both to grow quickly and repel 
+competitors.  Bitcoin currently represent an unprecedented opportunity for those 
+that see it and get in early.
 
 My advice to everyone is that they should get one and hold on. A single bitcoin 
-currently represents a modest investment of $11k.  But if it does replace the 
-dollar, it could provide enough money to secure your future.
+currently represents a modest investment of $11k.  But if bitcoin does replace 
+the dollar, that small investement could provide enough money to secure your 
+future.  Get one for you, one for your spouse, and one for each of your kids to 
+secure all their futures.
