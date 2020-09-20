@@ -22,7 +22,7 @@ Over the last two hundred years the growth rate has averaged about 3.6%, but
 notice that the slope seems to change right around 1930, the date of the Great 
 Depression.  Before the depression the slope was lower and the after the 
 depression the slope increases.  This occurred because of changes in policy at 
-that time increased the amount of inflation in monetary supply.
+that time increased the amount of inflation in the money supply.
 
 When most people want to know the amount of inflation, they look up the CPI or 
 Consumer Price Index. However, this is not a suitable measure of inflation when 
@@ -35,7 +35,8 @@ than the inflation measured by the CPI.
 
 The best way to compensate for inflation in assets is to normalize the price of 
 the asset to the price of gold. Gold is an asset and it is used primarily as 
-a long term store of value as a hedge against inflation.
+a long term store of value as a hedge against inflation.  It holds its value 
+regardless of inflation.
 
 .. image:: gold_usd.svg
     :width: 100%
