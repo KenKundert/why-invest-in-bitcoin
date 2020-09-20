@@ -125,10 +125,10 @@ to reduce the value of all shares.
 
 All assets combine value and scarcity. I mention this because many people 
 question bitcoin's validity as an asset.  But bitcoin provides tremendous value 
-and is among the most scarce assets. At this point the importance of its value 
-is not widely recognized. As such, it represents a tremendous opportunity.  As 
-the importance of bitcoin becomes more widely recognized, it price will increase 
-tremendously.
+and is among the most scarce of assets. At this point the importance of its 
+value is not widely recognized. As such, it represents a tremendous opportunity.  
+As the importance of bitcoin becomes more widely recognized, it price will 
+increase tremendously.
 
 Briefly, the value of bitcoin is that it offers an efficient means of 
 transferring money over the internet and is controlled by a decentralized 
@@ -139,16 +139,17 @@ governments and banks to interfere with individuals use of their money. In
 addition, bitcoin has guaranteed scarcity. No one can decide to issue more 
 bitcoin in the future, thus unlike fiat currencies, bitcoin is not subject to 
 inflation.  For these reasons, bitcoin is superior money and is now competing on 
-the open market with government mandated currencies that whose lose value over 
-time. In the last 50 years the US dollar has been losing roughly 5% of its value 
-every year.  Once people begin to recognize that bitcoin is superior money and 
-it available to them, they will begin to switch. Since bitcoin is scarce, as the 
-switch bitcoin increases in value which will encourage more to switch. This 
-positive feedback look suggests that once a threshold is reached, the transition 
-to bitcoin will be swift, which will result in a dramatic increase in the value 
-of each bitcoin.  This positive feedback loop is part of the network effect and 
-common to many of the hugely valuable monopolies that currently exist, such as 
-Google, Facebook, etc.
+the open market with government mandated currencies that lose value over time. 
+In the last 50 years the US dollar has been losing roughly 5% of its value every 
+year.  Once people begin to recognize that bitcoin is superior money and it 
+available to them, they will begin to switch. Since bitcoin is scarce, as the 
+switch occurs bitcoin increases in value, and that encourages more to switch.  
+This positive feedback look suggests that once a threshold is reached, the 
+transition to bitcoin will be swift, which will result in a rapid and dramatic 
+increase in the value of each bitcoin.  This positive feedback loop is part of 
+the network effect and common to many of the hugely valuable monopolies that 
+currently exist, such as Google, Facebook, etc. Those that own bitcoin and hold 
+it through the transition can expect to benefit handsomely.
 
 .. image:: btc_usd.svg
     :width: 100%
