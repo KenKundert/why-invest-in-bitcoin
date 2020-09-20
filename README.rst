@@ -129,7 +129,7 @@ All assets combine value with scarcity. I mention this because many people
 question bitcoin's validity as an asset.  But bitcoin provides tremendous value 
 and is the only asset available whose supply cannot be intentionally inflated, 
 as such its scarcity is guaranteed.  At this point the importance of its value 
-is not widely recognized.  As such, it represents a tremendous opportunity.  As 
+is not widely recognized.  As such, it represents an investment opportunity.  As 
 the importance of bitcoin becomes more widely recognized, it price will increase 
 tremendously.
 
