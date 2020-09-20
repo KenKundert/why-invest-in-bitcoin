@@ -25,7 +25,7 @@ data = dict(
     gold = dict(name='Gold', color='orange'),
     sp500 = dict(name='S&P 500', color='green'),
     nasdaq = dict(name='Nasdaq', color='magenta'),
-    btc = dict(name='BTC', color='black'),
+    btc = dict(name='BTC', color='red'),
 )
 normalized = dict(
     dow = dict(name='Dow', color='blue'),
