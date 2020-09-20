@@ -177,8 +177,8 @@ but now its growth is limited; it is near the end of its range.  What is unusual
 about bitcoin is that it is at the beginning of its range. It is relatively 
 small at the moment but has a vast $200T total available market.  It also 
 benefits from the network effect, which causes it both to grow quickly and repel 
-competitors.  Bitcoin currently represent an unprecedented opportunity for those 
-that see it and get in early.
+competitors.  Bitcoin currently represents an unprecedented opportunity for 
+those that seize the moment.
 
 My advice to everyone is that they should get one and hold on. A single bitcoin 
 currently represents a modest investment of $11k.  But if bitcoin does replace 
