@@ -114,14 +114,14 @@ bitcoin.  To understand bitcoin it important to understand that the value of
 almost all assets is based on their scarcity.  This did not used to be true with 
 corporate equities. Many years ago the holders of equities were rewarded with 
 dividends, meaning that it was worthwhile to hold the stocks even if the price 
-of the stock did not change. But over time things change and now the rewards 
-from holding stock comes from price appreciation rather than from dividends. For 
-the price of stock to appreciate, they must be scarce. The fewer the shares, the 
-larger the fraction of ownership of the company that a share represents.  
-Indeed, the current run up of the stock market is largely due to stock buy 
-backs. Buy backs increase the scarcity of the shares, increasing their value.  
-Conversely, companies can issue new shares, which tends to reduce the value of 
-all shares.
+of the stock did not change. But over time things changed and now the rewards 
+from holding stock usually comes from price appreciation rather than from 
+dividends.  For the price of stock to appreciate, they must be scarce. The fewer 
+the shares, the larger the fraction of ownership of the company that each share 
+represents.  Indeed, the current run up of the stock market is due at least in 
+part to stock buy backs. Buy backs increase the scarcity of the shares, 
+increasing their value.  Conversely, companies can issue new shares, which tends 
+to reduce the value of all shares.
 
 All assets combine value and scarcity. I mention this because many people 
 question bitcoin's validity as an asset.  But bitcoin provides tremendous value 
