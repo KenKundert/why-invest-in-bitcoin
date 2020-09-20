@@ -8,8 +8,9 @@ Capitalist
 the rate of return at over 8% when averaged over 200 years.  Such returns allow 
 investors to beat inflation and build a nest egg if they keep their money in the 
 market for decades.  But they leave one question unanswered: what are the 
-expected returns adjusted for inflation?  This document attempts to get a handle 
-on that.
+expected returns adjusted for inflation?  The first part of this document 
+attempts to get a handle on that.  Then, from that perspective, an alternate 
+investment that promises much higher returns is considered.
 
 First, lets examine the Dow Jones Industrial Average over time.
 
@@ -17,7 +18,7 @@ First, lets examine the Dow Jones Industrial Average over time.
     :width: 100%
     :align: center
 
-Over the last two hundred years the growth rate has averged about 3.6%, but 
+Over the last two hundred years the growth rate has averaged about 3.6%, but 
 notice that the slope seems to change right around 1930, the date of the Great 
 Depression.  Before the depression the slope was lower and the after the 
 depression the slope increases.  This occurred because of changes in policy at 
@@ -94,7 +95,7 @@ Here the return in terms of dollars is found to be 10.2%.
     :width: 100%
     :align: center
 
-With inflation removed, the return becomes 5%.
+With inflation removed, the true return is revealed to be 5%.
 
 What this shows is that one must really consider inflation when looking at 
 long-term expected returns in the market.  The true returns are considerably 
@@ -182,6 +183,6 @@ those that seize the moment.
 
 My advice to everyone is that they should get one and hold on. A single bitcoin 
 currently represents a modest investment of $11k.  But if bitcoin does replace 
-the dollar, that small investement could provide enough money to secure your 
+the dollar, that small investment could provide enough money to secure your 
 future.  Get one for you, one for your spouse, and one for each of your kids to 
 secure all their futures.
