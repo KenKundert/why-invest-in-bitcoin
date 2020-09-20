@@ -115,11 +115,11 @@ almost all assets is based on their scarcity.  This did not used to be true with
 corporate equities. Many years ago the holders of equities were rewarded with 
 dividends, meaning that it was worthwhile to hold the stocks even if the price 
 of the stock did not change. But over time things changed and now the rewards 
-from holding stock usually comes from price appreciation rather than from 
-dividends.  For the price of stock to appreciate, they must be scarce. The fewer 
-the shares, the larger the fraction of ownership of the company that each share 
-represents.  Indeed, the current run up of the stock market is due at least in 
-part to stock buy backs. Buy backs increase the scarcity of the shares, 
+from holding stock usually come from price appreciation rather than from 
+dividends.  For the price of stock to appreciate, the shares must be scarce. The 
+fewer the shares, the larger the fraction of ownership of the company that each 
+share represents.  Indeed, the current run up of the stock market is due at 
+least in part to stock buy backs. Buy backs increase the scarcity of the shares, 
 increasing their value.  Conversely, companies can issue new shares, which tends 
 to reduce the value of all shares.
 
