@@ -1,6 +1,13 @@
 Market Returns Adjusted for Inflation
 =====================================
 
+| Author: Ken Kundert
+| Version: 0.0.0
+| Released: 2020-09-20
+| Please post all questions, suggestions, and bug reports to
+  `Github <https://github.com/KenKundert/market-returns/issues>`_.
+|
+
 It is a maxim of investing that the stock market is risky but if you leave your 
 money in over the long run it reliably provides the excellent returns.  `Visual 
 Capitalist 
@@ -147,12 +154,12 @@ currencies that lose value over time.  In the last 50 years the US dollar has
 been losing roughly 5% of its value every year.  Once people begin to recognize 
 that bitcoin is superior money and it is available to them, they will begin to 
 switch. Since bitcoin is scarce, as the switch occurs bitcoin increases in 
-value, and that encourages more to switch.  This positive feedback look suggests 
-that once a threshold is reached, the transition to bitcoin will be swift, which 
-will result in a rapid and dramatic increase in the value of each bitcoin.  This 
-positive feedback loop is part of the network effect and common to many of the 
-hugely valuable monopolies that currently exist, such as Google, Facebook, etc.  
-Those that own bitcoin and hold it through the transition can expect to benefit 
+value, and that encourages more to switch.  This positive feedback suggests that 
+once a threshold is reached, the transition to bitcoin will be swift, which will 
+result in a rapid and dramatic increase in the value of each bitcoin.  This 
+positive feedback is part of the network effect and common to many of the hugely 
+valuable monopolies that currently exist, such as Google, Facebook, etc.  Those 
+that own bitcoin and hold it through the transition can expect to benefit 
 handsomely, just like the insiders that were able to get into Google and 
 Facebook early.
 
