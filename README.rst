@@ -82,8 +82,7 @@ In this case the apparent return is 6.8%. However, when inflation is removed ...
     :width: 100%
     :align: center
 
-the true return is found to be an even more modest 1.6%, and the volatility is 
-significantly greater..
+the true return is found to be an even more modest 1.6%.
 
 Finally, consider the Nasdaq.
 
@@ -99,7 +98,7 @@ Here the return in terms of dollars is found to be 10.2%.
 
 With inflation removed, the true return is revealed to be 5%.
 
-What this shows is that one must really consider inflation when looking at 
+What this shows is that one must carefully consider inflation when looking at 
 long-term expected returns in the market.  The true returns are considerably 
 less that what are generally advertised, which of course if very important to 
 understand when planning for the long term.  These returns also come with 
