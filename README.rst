@@ -58,7 +58,10 @@ Notice that the change is slope is gone, which supports the idea that it was due
 to inflation and that the effect of inflation can be removed by normalizing to 
 the price of gold.  Now that the true rate of return is determined to be 2%, 
 which seems to be quite modest, especially when the risk and volatility of the 
-market is considered.
+market is considered.  Also notice that after the Great Depression the 
+volatility of the market has substantially increased.  The increase in 
+volatility is directly due to the increased inflation as it is inflation that 
+creates and aggravates the business cycles.
 
 Now it is important to remember that the Dow is not the market, it is just one 
 segment of the market. It is convenient to use because it has been around for 
@@ -95,5 +98,9 @@ With inflation removed, the return becomes 5%.
 
 What this shows is that one must really consider inflation when looking at 
 long-term expected returns in the market.  The true returns are considerably 
-less that what are generally advertized, which of course if very important to 
-understand when planning for the long term.
+less that what are generally advertised, which of course if very important to 
+understand when planning for the long term.  These returns also come with 
+substantial volatility, which can be hugely problematic. Imagine investing 
+a substantial amount of money in 1927 for a planned retirement in 1980 only to 
+find that after 50 years it only has one fifth the value in real terms of what 
+you originally invested.

@@ -198,7 +198,7 @@ if show_in_gold:
         if not display_results:
             axis.set_yscale('log')
             axis.yaxis.set_major_formatter(
-                ticker.FuncFormatter(lambda v, p: Quantity(v, '$').render())
+                ticker.FuncFormatter(lambda v, p: Quantity(v, 'oz').render())
             )
             axis.legend()
             figure.savefig(each + '_auoz.svg')
