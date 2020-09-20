@@ -150,7 +150,8 @@ will result in a rapid and dramatic increase in the value of each bitcoin.  This
 positive feedback loop is part of the network effect and common to many of the 
 hugely valuable monopolies that currently exist, such as Google, Facebook, etc.  
 Those that own bitcoin and hold it through the transition can expect to benefit 
-handsomely, just like the insiders that got into Google and Facebook early.
+handsomely, just like the insiders that were able to get into Google and 
+Facebook early.
 
 .. image:: btc_usd.svg
     :width: 100%
