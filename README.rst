@@ -47,7 +47,7 @@ Depression, at which point it started to climb as the gold standard began to
 falter. With the dollar losing its anchor it begins to inflate in a substantial 
 way.  I assume that the value of gold has remained relatively constant over time 
 as it has for millennia and instead the increasing price of gold over time is 
-due to the decrease in purchasing power of the dollar.
+due to the decrease in purchasing power of the dollar due to inflation.
 
 Now, if the Dow is normalized to the price of gold we can see that true return 
 of the Dow over the last 200 years:
