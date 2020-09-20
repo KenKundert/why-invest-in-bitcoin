@@ -104,3 +104,74 @@ substantial volatility, which can be hugely problematic. Imagine investing
 a substantial amount of money in 1927 for a planned retirement in 1980 only to 
 find that after 50 years it only has one fifth the value in real terms of what 
 you originally invested.
+
+
+Bitcoin
+-------
+
+We currently have a remarkable alternative to investing in the stock market: 
+bitcoin.  To understand bitcoin it important to understand that the value of 
+almost all assets is based on their scarcity.  This did not used to be true with 
+corporate equities. Many years ago the holders of equities were rewarded with 
+dividends, meaning that it was worthwhile to hold the stocks even if the price 
+of the stock did not change. But over time things change and now the rewards 
+from holding stock comes from price appreciation rather than from dividends. For 
+the price of stock to appreciate, they must be scarce. The fewer the shares, the 
+larger the fraction of ownership of the company that a share represents.  
+Indeed, the current run up of the stock market is largely due to stock buy 
+backs. Buy backs increase the scarcity of the shares, increasing their value.  
+Conversely, companies can issue new shares, which tends to reduce the value of 
+all shares.
+
+All assets combine value and scarcity. I mention this because many people 
+question bitcoin's validity as an asset.  But bitcoin provides tremendous value 
+and is among the most scarce assets. At this point the importance of its value 
+is not widely recognized. As such, it represents a tremendous opportunity.  As 
+the importance of bitcoin becomes more widely recognized, it price will increase 
+tremendously.
+
+Briefly, the value of bitcoin is that it offers an efficient means of 
+transferring money over the internet and is controlled by a decentralized 
+network with a transparent set of rules, thus presenting an alternative to 
+central bank controlled fiat money. The decentralized nature of bitcoin is its 
+most unique and important feature.  It makes it difficult if not impossible for 
+governments and banks to interfere with individuals use of their money. In 
+addition, bitcoin has guaranteed scarcity. No one can decide to issue more 
+bitcoin in the future, thus unlike fiat currencies, bitcoin is not subject to 
+inflation.  For these reasons, bitcoin is superior money and is now competing on 
+the open market with government mandated currencies that whose lose value over 
+time. In the last 50 years the US dollar has been losing roughly 5% of its value 
+every year.  Once people begin to recognize that bitcoin is superior money and 
+it available to them, they will begin to switch. Since bitcoin is scarce, as the 
+switch bitcoin increases in value which will encourage more to switch. This 
+positive feedback look suggests that once a threshold is reached, the transition 
+to bitcoin will be swift, which will result in a dramatic increase in the value 
+of each bitcoin.  This positive feedback loop is part of the network effect and 
+common to many of the hugely valuable monopolies that currently exist, such as 
+Google, Facebook, etc.
+
+.. image:: btc_usd.svg
+    :width: 100%
+    :align: center
+
+To understand the potential of bitcoin, realize that 21M is the maximum number 
+of bitcoin that will ever exists.  Currently (September 2020) there are 18.5M.  
+I will approximate both of these numbers as 20M.  The current price is $11k, 
+meaning that the total value of all bitcoin is roughly $220G. Estimates for the 
+total amount of dollars in the world economy is very roughly $200T. Thus, for 
+bitcoin to replace the dollar the total number of bitcoin must represent that 
+$200T, meaning that in doing so each bitcoin eventually becomes worth $10M.
+This represents a 1000× increase. To get the same return by investing in the 5% 
+growth rate of the Nasdaq would require 140 years. 
+
+If you look at the investment alternatives to bitcoin, you find things like 
+stock, real estate, and gold.  However, all the alternatives that you know about 
+today have already run up in value. For example, consider Apple. The total value 
+of Apple stock is $2T. A great company, but just how much greater can it become?  
+To exhibit a 1000× increase, it would have to become substantially larger than 
+the entire world's economy.  Apple has been a great stock to own in the past, 
+but now its growth is limited.  What is unusual about bitcoin is that it is 
+currently relatively small but has a huge $200T total available market, and it 
+benefits from the network effect.  It currently represent a huge opportunity 
+that is larger than anything that has come before and likely larger than 
+anything that will ever occur in the future.

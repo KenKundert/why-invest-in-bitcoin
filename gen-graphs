@@ -25,6 +25,7 @@ data = dict(
     gold = dict(name='Gold', color='orange'),
     sp500 = dict(name='S&P 500', color='green'),
     nasdaq = dict(name='Nasdaq', color='magenta'),
+    btc = dict(name='BTC', color='black'),
 )
 normalized = dict(
     dow = dict(name='Dow', color='blue'),
@@ -38,6 +39,7 @@ cmdline = docopt(__doc__)
 display_results = not cmdline['--no-graph']
 show_in_dollars = cmdline['--dollars']
 show_in_gold = cmdline['--gold']
+show_btc = True
 if not show_in_dollars and not show_in_gold:
     show_in_dollars = show_in_gold = True
 
@@ -64,6 +66,8 @@ for each in raw_data:
 
 # Calculate normalized prices {{{1
 for each in data:
+    if each == 'btc':
+        continue
     prices = {
         y: data[each]['data'][y]/data['gold']['data'][y]
         for y in range(first_year, 2021)
@@ -208,3 +212,42 @@ if show_in_gold:
         axis.yaxis.set_major_formatter(ticker.FuncFormatter(lambda y, _: '{:g}'.format(y)))
         axis.legend()
         plt.show()
+
+# generate graph of BTC price in dollars {{{2
+if show_btc:
+    def date_to_real(date):
+        y, m, d = date.split('-')
+        return int(y) + int(m)/12 + int(d)/365
+    prices = {
+        date_to_real(k): Quantity(v, '$')
+        for k, v in raw_data['btc']['prices'].items()
+    }
+    years = list(prices.keys())
+    values = list(prices.values())
+
+
+    figure = plt.figure()
+    axis = figure.add_subplot(111)
+    axis.set(
+        xlabel = 'year',
+        ylabel = 'price',
+        title = 'BTC Price in Dollars'
+    )
+    name = data['btc']['name']
+    axis.plot(
+        years,
+        values,
+        label = data['btc']['name'],
+        color = data['btc']['color'],
+        linestyle = 'solid',
+    )
+    axis.set_yscale('log')
+    axis.yaxis.set_major_formatter(
+        ticker.FuncFormatter(lambda v, p: Quantity(v, '$').render())
+    )
+    axis.legend()
+    if display_results:
+        plt.show()
+    else:
+        figure.savefig('btc_usd.svg')
+
