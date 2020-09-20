@@ -62,7 +62,7 @@ the price of gold.  Now the true rate of return is determined to be 2%, which
 seems to be quite modest especially considering the risk and volatility of the 
 market.  Also notice that after the Great Depression the volatility of the 
 market has substantially increased.  The increase in volatility is directly due 
-to the increased inflation as it is inflation that creates and aggravates the 
+to the increased inflation as it is inflation that creates and aggravates 
 business cycles.
 
 Now it is important to remember that the Dow is not the market, it is just one 
@@ -82,7 +82,8 @@ In this case the apparent return is 6.8%. However, when inflation is removed ...
     :width: 100%
     :align: center
 
-the true return is found to be an even more modest 1.6%.
+the true return is found to be an even more modest 1.6%, and the volatility is 
+significantly greater..
 
 Finally, consider the Nasdaq.
 
