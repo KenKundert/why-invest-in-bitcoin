@@ -138,11 +138,11 @@ companies can issue new shares, which tends to reduce the value of all shares.
 
 All desirable assets combine demand with scarcity. I mention this because many 
 people question bitcoin's validity as an asset.  But bitcoin provides tremendous 
-value and is the only asset available whose supply cannot be intentionally 
-inflated, as such its scarcity is guaranteed.  At this point the importance of 
-its value is not widely recognized.  As such, it represents an investment 
-opportunity.  As the importance of bitcoin becomes more widely recognized, its 
-price will increase.
+value, which drives demand, and is the only asset available whose supply cannot 
+be intentionally inflated, as such its scarcity is guaranteed.  At this point 
+the importance of its value is not widely recognized.  As such, it represents an 
+investment opportunity.  As the importance of bitcoin becomes more widely 
+recognized, its price will increase.
 
 Briefly, the value of bitcoin is that it offers an efficient means of 
 transferring money over the internet and is controlled by a decentralized 
