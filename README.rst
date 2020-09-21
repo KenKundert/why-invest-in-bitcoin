@@ -167,10 +167,6 @@ Facebook, etc.  Those that own bitcoin and hold it through the transition can
 expect to benefit handsomely, just like the insiders that were able to get into 
 Google and Facebook early.
 
-.. image:: btc_usd.svg
-    :width: 100%
-    :align: center
-
 To understand the potential of bitcoin, realize that 21M is the maximum number 
 of bitcoin that will ever exists.  Currently (September 2020) there are 18.5M.  
 I will approximate both of these numbers as 20M.  The current price is $11k, 
@@ -188,11 +184,16 @@ of Apple stock is $2T. A great company, but just how much greater can it become?
 To exhibit a 1000× increase, it would have to become substantially larger than 
 the entire world's economy.  Apple has been a great stock to own in the past, 
 but now its growth is limited; it is near the end of its range.  What is unusual 
-about bitcoin is that it is at the beginning of its range. It is relatively 
-small at the moment but has a vast $200T total available market.  It also 
-benefits from the network effect, which causes it both to grow quickly and repel 
-competitors.  Bitcoin currently represents an unprecedented opportunity for 
-those that seize the moment.
+about bitcoin is that it is at the beginning of its range. In its 10 years of 
+life it has increased in value tremendously. However it is still relatively 
+small, but it has a vast $200T total available market.  It also benefits from 
+the network effect, which causes it both to grow quickly and repel competitors.  
+Bitcoin currently represents an unprecedented opportunity for those that seize 
+the moment.
+
+.. image:: btc_usd.svg
+    :width: 100%
+    :align: center
 
 My advice to everyone is that they should get one and hold on. A single bitcoin 
 currently represents a modest investment of $11k.  But if bitcoin does replace 
