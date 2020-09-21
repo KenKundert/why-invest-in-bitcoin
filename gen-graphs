@@ -82,7 +82,7 @@ for each in data:
     rate = 10**slope - 1
     range = f"{years[0]} — {years[-1]}"
     name = data[each]['name']
-    print(f"Average Growth Rate of {name} ({range})) = {rate:.2%}")
+    print(f"Average Growth Rate of {name} ({range}) = {rate:.2%}")
     data[each]['rate'] = rate
     data[each]['range'] = range
     data[each]['years'] = years
@@ -92,6 +92,8 @@ for each in data:
 # normalized data {{{2
 # use a semi-log regression
 for each in normalized:
+    if each == 'gold':
+        continue
     years = list(normalized[each]['data'].keys())
     prices = list(normalized[each]['data'].values())
     slope, offset = np.polyfit(years, np.log10(prices), 1)
@@ -99,12 +101,25 @@ for each in normalized:
     rate = 10**slope - 1
     range = f"{years[0]} — {years[-1]}"
     name = normalized[each]['name']
-    print(f"Average Growth Rate of {name} Normalized to Gold ({range})) = {rate:.2%}.")
+    print(f"Average Growth Rate of {name} Normalized to Gold ({range}) = {rate:.2%}.")
     normalized[each]['rate'] = rate
     normalized[each]['range'] = range
     normalized[each]['years'] = years
     normalized[each]['prices'] = prices
     normalized[each]['fit'] = fit_prices
+
+# gold since 1971 {{{2
+# use a semi-log regression
+years = list(data['gold']['years'])
+prices = list(data['gold']['prices'])
+partition = years.index(1971)
+years = years[partition:]
+prices = prices[partition:]
+slope, offset = np.polyfit(years, np.log10(prices), 1)
+fit_prices = 10**np.polyval([slope, offset], years)
+rate = 10**slope - 1
+range = f"{years[0]} — {years[-1]}"
+print(f"Average Growth Rate of Gold ({range}) = {rate:.2%}.")
 
 # generate graphs {{{1
 # generate graph of price in dollars {{{2
