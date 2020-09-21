@@ -57,7 +57,7 @@ as it has for millennia and instead the increasing price of gold over time is
 due to the decrease in purchasing power of the dollar due to inflation.
 
 Now, if the Dow is normalized to the price of gold we can see the true return of 
-the Dow over the last 200 years:
+the Dow over the last 200 years.
 
 .. image:: dow_auoz.svg
     :width: 100%
@@ -65,12 +65,12 @@ the Dow over the last 200 years:
 
 Notice that the change is slope is gone, which supports the idea that it was due 
 to inflation and that the effect of inflation can be removed by normalizing to 
-the price of gold.  Now the true rate of return is determined to be 2%, which 
-seems to be quite modest especially considering the risk and volatility of the 
-market.  Also notice that after the Great Depression the volatility of the 
-market has substantially increased.  The increase in volatility is directly due 
-to the increased inflation as it is inflation that creates and aggravates 
-business cycles.
+the price of gold.  The true rate of return is determined to be 2%, which seems 
+to be quite modest especially considering the risk and volatility of the market.  
+Also notice that after the Great Depression the volatility of the market has 
+substantially increased.  The increase in volatility is directly due to the 
+increased inflation as it is inflation that creates and aggravates business 
+cycles.
 
 Now it is important to remember that the Dow is not the market, it is just one 
 segment of the market. It is convenient to use because it has been around for 
