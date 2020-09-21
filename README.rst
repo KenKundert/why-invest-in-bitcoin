@@ -8,6 +8,10 @@ Bitcoin versus Stock Market
   `Github <https://github.com/KenKundert/market-returns/issues>`_.
 |
 
+
+True Market Returns
+-------------------
+
 It is a maxim of investing that the stock market is risky but if you leave your 
 money in over the long run it reliably provides excellent returns.  `Visual 
 Capitalist 
@@ -122,15 +126,14 @@ adopted, solves the inflation problem by simply eliminating inflation.
 Bitcoin
 -------
 
-We currently have a remarkable alternative to investing in the stock market: 
-bitcoin.  To understand bitcoin it important to understand that the value of 
-almost all assets is based on their scarcity.  This did not used to be true with 
-equities in the stock market.  Many years ago the holders of equities were 
-rewarded with dividends, meaning that it was worthwhile to hold the stocks even 
-if the price of the stock did not change. But over time things changed and now 
-the rewards from holding stock usually come from price appreciation rather than 
-from dividends.  For the price of stock to appreciate, the shares must be in 
-demand and they must be scarce. The fewer the shares, the larger the fraction of 
+To understand bitcoin it important to understand that the value of almost all 
+assets is based on their scarcity.  This did not used to be true with equities 
+in the stock market.  Many years ago the holders of equities were rewarded with 
+dividends, meaning that it was worthwhile to hold the stocks even if the price 
+of the stock did not change. But over time things changed and now the rewards 
+from holding stock usually come from price appreciation rather than from 
+dividends.  For the price of stock to appreciate, the shares must be in demand 
+and they must be scarce. The fewer the shares, the larger the fraction of 
 ownership of the company that each share represents.  Indeed, the current run up 
 of the stock market is due at least in part to stock buy backs. Buy backs 
 increase the scarcity of the shares, increasing their value.  Conversely, 
