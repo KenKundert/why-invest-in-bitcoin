@@ -130,19 +130,19 @@ rewarded with dividends, meaning that it was worthwhile to hold the stocks even
 if the price of the stock did not change. But over time things changed and now 
 the rewards from holding stock usually come from price appreciation rather than 
 from dividends.  For the price of stock to appreciate, the shares must be in 
-deman and they must be scarce. The fewer the shares, the larger the fraction of 
+demand and they must be scarce. The fewer the shares, the larger the fraction of 
 ownership of the company that each share represents.  Indeed, the current run up 
 of the stock market is due at least in part to stock buy backs. Buy backs 
 increase the scarcity of the shares, increasing their value.  Conversely, 
 companies can issue new shares, which tends to reduce the value of all shares.
 
-All assets combine value with scarcity. I mention this because many people 
-question bitcoin's validity as an asset.  But bitcoin provides tremendous value 
-and is the only asset available whose supply cannot be intentionally inflated, 
-as such its scarcity is guaranteed.  At this point the importance of its value 
-is not widely recognized.  As such, it represents an investment opportunity.  As 
-the importance of bitcoin becomes more widely recognized, its price will 
-increase.
+All desirable assets combine demand with scarcity. I mention this because many 
+people question bitcoin's validity as an asset.  But bitcoin provides tremendous 
+value and is the only asset available whose supply cannot be intentionally 
+inflated, as such its scarcity is guaranteed.  At this point the importance of 
+its value is not widely recognized.  As such, it represents an investment 
+opportunity.  As the importance of bitcoin becomes more widely recognized, its 
+price will increase.
 
 Briefly, the value of bitcoin is that it offers an efficient means of 
 transferring money over the internet and is controlled by a decentralized 
