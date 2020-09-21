@@ -34,11 +34,11 @@ inflation in the money supply.
 When most people want to know the amount of inflation, they look up the CPI or 
 Consumer Price Index. However, this is not a suitable measure of inflation when 
 discussing investments.  The CPI measures the growth in the prices of essentials 
-that are needed by the average person in their daily life, things like the cost 
-of rent and food. What we are interested in is inflation in the price of assets, 
-after all one invests in assets like houses or companies, not in essentials like 
-bread or socks.  The inflation in assets can be much different than the 
-inflation measured by the CPI.
+that are consumed by the average person in their daily life, things like rent 
+and food. What we are interested in is inflation in the price of assets.  After 
+all, one invests in assets like houses or companies, not in consumables.  The 
+inflation in assets can be much different than the inflation measured by the 
+CPI.
 
 The best way to compensate for inflation in assets is to normalize the price of 
 the asset to the price of gold. Gold is an asset and it is used primarily as 
