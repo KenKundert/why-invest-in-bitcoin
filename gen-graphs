@@ -21,18 +21,13 @@ import matplotlib.ticker as ticker
 
 # Globals {{{1
 data = dict(
-    dow = dict(name='Dow', color='blue'),
+    dow = dict(name='Dow', color='tab:blue'),
     gold = dict(name='Gold', color='orange'),
-    sp500 = dict(name='S&P 500', color='green'),
-    nasdaq = dict(name='Nasdaq', color='magenta'),
-    btc = dict(name='BTC', color='red'),
+    sp500 = dict(name='S&P 500', color='darkgreen'),
+    nasdaq = dict(name='Nasdaq', color='darkmagenta'),
+    btc = dict(name='BTC', color='darkturquoise'),
 )
-normalized = dict(
-    dow = dict(name='Dow', color='blue'),
-    gold = dict(name='Gold', color='orange'),
-    sp500 = dict(name='S&P 500', color='green'),
-    nasdaq = dict(name='Nasdaq', color='magenta'),
-)
+normalized = {k: v.copy() for k, v in data.items() if k != 'btc'}
 
 # Read command line {{{1
 cmdline = docopt(__doc__)
