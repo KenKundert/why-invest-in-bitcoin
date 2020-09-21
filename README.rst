@@ -97,14 +97,14 @@ Finally, consider the Nasdaq.
     :width: 100%
     :align: center
 
-Here the return in terms of dollars is found to be 10.2%.
+The return in terms of dollars is found to be 10.2%.
 
 .. image:: nasdaq_auoz.svg
     :width: 100%
     :align: center
 
-With inflation removed, the true return is revealed to be 5%, which is better, 
-but volatility is even greater.
+With inflation removed, the true return is revealed to be 5%, which is better 
+than the others, but volatility is even greater.
 
 What this shows is that one must carefully consider inflation when looking at 
 long-term expected returns in the market.  The true returns are considerably 
