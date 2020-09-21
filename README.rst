@@ -185,11 +185,11 @@ To exhibit a 1000× increase, it would have to become substantially larger than
 the entire world's economy.  Apple has been a great stock to own in the past, 
 but now its growth is limited; it is near the end of its range.  What is unusual 
 about bitcoin is that it is at the beginning of its range. In its 10 years of 
-life it has increased in value tremendously. However it is still relatively 
-small, but it has a vast $200T total available market.  It also benefits from 
-the network effect, which causes it both to grow quickly and repel competitors.  
-Bitcoin currently represents an unprecedented opportunity for those that seize 
-the moment.
+life it has proven itself by remaining completely reliable while producing 
+a tremendous run up in value.  However, it is still relatively small, but it has 
+a vast $200T total available market.  It also benefits from the network effect, 
+which causes it both to grow quickly and repel competitors.  Bitcoin currently 
+represents an unprecedented opportunity for those see it and seize it.
 
 .. image:: btc_usd.svg
     :width: 100%
