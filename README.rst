@@ -115,9 +115,8 @@ a substantial amount of money into the S&P 500 in 1927 for a planned retirement
 in 1980 only to find that after 50 years it only has one fifth the value in real 
 terms of what you originally invested.
 
-What this shows is that when inflation is accounted for investing in the market 
-is both less rewarding and more risky than advertised.  Now, consider an asset 
-that promises to be both more rewarding and could solve the inflation problem.
+Now, consider an asset that promises to be more rewarding and, if widely 
+adopted, solves the inflation problem by eliminating inflation.
 
 
 Bitcoin
