@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Show Stock Market Indicies Normalized to Gold
+"""Show Stock Market Indices Normalized to Gold
 
 usage:
     gen-graphs [options]
@@ -11,6 +11,7 @@ options:
 """
 
 # Imports {{{1
+# to install required dependencies, run 'pip install -r requirements.txt'
 import nestedtext as nt
 from inform import fatal, os_error
 from quantiphy import Quantity

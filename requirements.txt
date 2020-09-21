@@ -1,0 +1,6 @@
+nestedtext
+inform
+quantiphy
+docopt
+numpy
+matplotlib
