@@ -142,18 +142,18 @@ value, which drives demand, and is the only asset available whose supply cannot
 be intentionally inflated, as such its scarcity is guaranteed.  At this point 
 the importance of its value is not widely recognized.  As such, it represents an 
 investment opportunity.  As the importance of bitcoin becomes more widely 
-recognized, its price will increase.
+understood, its price will increase.
 
-Briefly, the value of bitcoin is that it offers an efficient means of 
-transferring money over the internet and is controlled by a decentralized 
-network with a transparent set of rules, thus presenting an alternative to 
-central bank controlled fiat money. The decentralized nature of bitcoin is its 
-most unique and important feature.  It makes it difficult if not impossible for 
-governments and banks to stop it or to interfere with individuals use of their 
-money.  In addition, bitcoin has guaranteed scarcity. No one can decide to issue 
-more bitcoin in the future, thus unlike fiat currencies, bitcoin is not subject 
-to devaluation due to an inflating supply.  For these reasons, bitcoin is 
-superior money and is now competing on the open market with government mandated 
+Briefly, the value that bitcoin offers is as an efficient means of transferring 
+money over the internet. It is controlled by a decentralized network with 
+a transparent set of rules, thus presents an alternative to central bank 
+controlled fiat money. The decentralized nature of bitcoin is its most unique 
+and important feature.  It makes it difficult if not impossible for governments 
+and banks to stop it or to interfere with individuals use of their money.  In 
+addition, bitcoin has guaranteed scarcity. No one can decide to issue more 
+bitcoin in the future, thus unlike fiat currencies, bitcoin is not subject to 
+devaluation due to an inflating supply.  For these reasons, bitcoin is superior 
+money and is now competing on the open market with government mandated 
 currencies that lose value over time.  In the last 50 years the US dollar has 
 been losing roughly 5% of its value every year.  Once people begin to recognize 
 that bitcoin is superior money and it is available to them, they will begin to 
