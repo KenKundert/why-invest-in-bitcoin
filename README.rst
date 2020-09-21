@@ -25,15 +25,15 @@ First, lets examine the Dow Jones Industrial Average over time.
     :width: 100%
     :align: center
 
-Over the last two hundred years the growth rate has averaged about 3.6%, but 
-notice that the slope seems to change right around 1930, the date of the Great 
-Depression.  Before the depression the slope was lower and the after the 
-depression the slope increases.  This occurred because of changes in policy at 
-that time increased the amount of inflation in the money supply.
+Over the last 200 years the growth rate has averaged about 3.6%, but notice that 
+the slope seems to change right around 1930, the date of the Great Depression.  
+Before the depression the slope was lower and the after the slope increases.  
+This occurred because of changes in policy at that time increased the amount of 
+inflation in the money supply.
 
 When most people want to know the amount of inflation, they look up the CPI or 
 Consumer Price Index. However, this is not a suitable measure of inflation when 
-discussing investments.  The CPI measures the grown in the prices of essentials 
+discussing investments.  The CPI measures the growth in the prices of essentials 
 that are needed by the average person in their daily life, things like the cost 
 of food and clothing. What we are interested in is inflation in the price of 
 assets, after all one invests in assets like houses or companies, not in 
