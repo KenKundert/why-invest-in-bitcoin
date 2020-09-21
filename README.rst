@@ -116,7 +116,7 @@ in 1980 only to find that after 50 years it only has one fifth the value in real
 terms of what you originally invested.
 
 Now, consider an asset that promises to be more rewarding and, if widely 
-adopted, solves the inflation problem by eliminating inflation.
+adopted, solves the inflation problem by simply eliminating inflation.
 
 
 Bitcoin
@@ -125,16 +125,16 @@ Bitcoin
 We currently have a remarkable alternative to investing in the stock market: 
 bitcoin.  To understand bitcoin it important to understand that the value of 
 almost all assets is based on their scarcity.  This did not used to be true with 
-corporate equities. Many years ago the holders of equities were rewarded with 
-dividends, meaning that it was worthwhile to hold the stocks even if the price 
-of the stock did not change. But over time things changed and now the rewards 
-from holding stock usually come from price appreciation rather than from 
-dividends.  For the price of stock to appreciate, the shares must be scarce. The 
-fewer the shares, the larger the fraction of ownership of the company that each 
-share represents.  Indeed, the current run up of the stock market is due at 
-least in part to stock buy backs. Buy backs increase the scarcity of the shares, 
-increasing their value.  Conversely, companies can issue new shares, which tends 
-to reduce the value of all shares.
+equities in the stock market.  Many years ago the holders of equities were 
+rewarded with dividends, meaning that it was worthwhile to hold the stocks even 
+if the price of the stock did not change. But over time things changed and now 
+the rewards from holding stock usually come from price appreciation rather than 
+from dividends.  For the price of stock to appreciate, the shares must be in 
+deman and they must be scarce. The fewer the shares, the larger the fraction of 
+ownership of the company that each share represents.  Indeed, the current run up 
+of the stock market is due at least in part to stock buy backs. Buy backs 
+increase the scarcity of the shares, increasing their value.  Conversely, 
+companies can issue new shares, which tends to reduce the value of all shares.
 
 All assets combine value with scarcity. I mention this because many people 
 question bitcoin's validity as an asset.  But bitcoin provides tremendous value 
