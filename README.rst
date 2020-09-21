@@ -157,15 +157,15 @@ money and is now competing on the open market with government mandated
 currencies that lose value over time.  In the last 50 years the US dollar has 
 been losing roughly 5% of its value every year.  Once people begin to recognize 
 that bitcoin is superior money and is available to them, they will begin to 
-switch, increasing demand. Since bitcoin is scarce, as the switch occurs, 
-bitcoin increases in value, which encourages more to switch.  This positive 
-feedback suggests that once a threshold is reached, the transition to bitcoin 
-will be swift, which will result in a rapid and dramatic increase in the value 
-of each bitcoin.  This positive feedback is part of the network effect and 
-common to many of the hugely valuable monopolies that currently exist, such as 
-Google, Facebook, etc.  Those that own bitcoin and hold it through the 
-transition can expect to benefit handsomely, just like the insiders that were 
-able to get into Google and Facebook early.
+switch. Since bitcoin is scarce, the increasing demand causes bitcoin to 
+increase in value, which encourages more to switch.  This positive feedback 
+suggests that once a threshold is reached, the transition to bitcoin will be 
+swift, which will result in a rapid and dramatic increase in the value of each 
+bitcoin.  This positive feedback is part of the network effect and common to 
+many of the hugely valuable monopolies that currently exist, such as Google, 
+Facebook, etc.  Those that own bitcoin and hold it through the transition can 
+expect to benefit handsomely, just like the insiders that were able to get into 
+Google and Facebook early.
 
 .. image:: btc_usd.svg
     :width: 100%
