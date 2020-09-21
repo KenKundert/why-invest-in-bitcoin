@@ -1,5 +1,5 @@
-Market Returns Adjusted for Inflation
-=====================================
+Bitcoin versus Stock Market
+===========================
 
 | Author: Ken Kundert
 | Version: 0.0.0
