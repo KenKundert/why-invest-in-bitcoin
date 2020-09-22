@@ -194,7 +194,7 @@ life it has proven itself by remaining completely reliable while producing
 a tremendous run up in value.  However, at 0.1% of its $200T total available 
 market, it is still quite small.  It also benefits from the network effect, 
 which causes it both to grow quickly and repel competitors.  Bitcoin currently 
-represents an unprecedented opportunity for those see it and seize it.
+represents an unprecedented opportunity for those that see it and seize it.
 
 .. image:: btc_usd.svg
     :width: 100%
