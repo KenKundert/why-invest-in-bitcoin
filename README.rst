@@ -200,12 +200,6 @@ represents an unprecedented opportunity for those that see it and seize it.
     :width: 100%
     :align: center
 
-My advice to everyone is that they should get one and hold on. A single bitcoin 
-currently represents a modest investment of $11k.  But if bitcoin does replace 
-the dollar, that small investment could provide enough money to secure your 
-future.  Get one for you, one for your spouse, and one for each of your kids to 
-secure all their futures.
-
 
 Displace the Dollar? Really?
 ----------------------------
@@ -371,3 +365,15 @@ money using bitcoin is faster and cheaper than using dollars, and is not subject
 to the rules and restrictions of various jurisdictions.  Thus, once people begin 
 to hold bitcoin as a store of value, the bitcoin ecosystem naturally develops.  
 Then bitcoin sets about displacing the dollar altogether.
+
+
+Recomendation
+-------------
+
+My advice to everyone is that they should get one and hold on. A single bitcoin 
+currently represents a modest investment of $11k.  But if bitcoin does replace 
+the dollar, that small investment could provide enough money to secure your 
+future.  Get one for you, one for your spouse, and one for each of your kids to 
+secure all their futures.
+
+
