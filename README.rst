@@ -343,13 +343,14 @@ Instead everything is done by consensus. The result is that it is virtually
 impossible to make substantial changes that are at all controversial. A change 
 in the issuance schedule would be hugely controversial, and so it is not 
 possible to change it.  As such, the hard-money aspects of bitcoin are 
-unassailable. It is the only one that you can count on to hold the value of your 
-investment.  That is not true with any other currency. With all other currencies 
-the creator has enough control to step back in make changes that result in loss 
-of value.  Even if such a competing currency were to be created, bitcoin has 
-a staggering lead.  It owns most of the market share, it has by far the market 
-capitalization, and it owns the lion's share of the miners. The network effect 
-virtually guarantees bitcoin will remain the dominant cryptocurrency.
+unassailable. It is the only currency that you can count on to hold the value of 
+your investment. With all other currencies the creator has enough control to 
+step back in make changes that result in loss of value, as central banks do with 
+fiat currencies today.  Even if such a competing hard-currency were to be 
+created, bitcoin has a staggering lead.  It owns most of the market share, it 
+has by far the largest market capitalization, and it owns the lion's share of 
+the miners. The network effect virtually guarantees bitcoin will remain the 
+dominant cryptocurrency.
 
 
 How is this going to work?
@@ -364,7 +365,8 @@ acquire and spent bitcoin. Credit card companies recognize that transferring
 money using bitcoin is faster and cheaper than using dollars, and is not subject 
 to the rules and restrictions of various jurisdictions.  Thus, once people begin 
 to hold bitcoin as a store of value, the bitcoin ecosystem naturally develops.  
-Then bitcoin sets about displacing the dollar altogether.
+Once bitcoin can do everything the dollar can do, but better, it sets about 
+displacing the dollar altogether.
 
 
 Recomendation
