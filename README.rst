@@ -218,10 +218,10 @@ However, the tactics that the US used to undermine gold will not work nearly as
 well against Bitcoin.  
 
 When gold started to increase in value the US would dump gold on to the market 
-to damp the rise.  This reduced the US gold reserves, which also acts to 
-undercut the rationale for using the dollar as a reserve currency.  The US is 
-currently trying to hide this situation by refusing to allow its gold reserves 
-to be audited.
+to damp the rise and discourage its use.  This reduced the US gold reserves, 
+which also acts to undercut the rationale for using the dollar as a reserve 
+currency.  The US is currently trying to hide this situation by refusing to 
+allow its gold reserves to be audited.
 
 This strategy cannot be used against bitcoin because the US does not hold 
 a significant amount of bitcoin, and if they tried to acquire a substantial 
@@ -260,7 +260,7 @@ bitcoin. Authoritarian countries especially do not like the loss of control that
 accompanies the widespread adoption of bitcoin. However, moving to bitcoin is 
 probably still more palatable than staying on the dollar or moving to the 
 currency of an economic or political adversary. At least bitcoin is neutral and 
-does not advantage their competitor.
+does not advantage their competitors.
 
 Currently bitcoin is too small to be of much use to nation states. Rather, it 
 is largely used by individuals. However, there is increasing evidence that it is 
@@ -318,16 +318,16 @@ decentralized nature of Bitcoin makes it impossible for governments to stop.
 Thus bitcoin provides, whether governments like it or not, a free market in 
 currency.  Once bitcoin is established, people can freely choose between bitcoin 
 or the fiat currency. Once people start choosing the bitcoin, those that control 
-the fiat currencies, the central banks, are forced to change their ways or their 
-currencies will soon become irrelevant.  Thus, the competition forces fiat 
-currencies to become more like bitcoin, which might stop bitcoin from completely 
-replacing the fiat currency. However, the competition only realizes when bitcoin 
-becomes much larger. Bitcoin is simply too small at the moment to change the 
-behavior of central banks, but if it becomes 50-100× larger it will start to 
-threaten fiat currencies and so the central bankers must react to bitcoin. Thus, 
-even if bitcoin does not complete replace the dollar, its price should grow to 
-at least 10x and more likely 100× its current value before central banks start 
-acting to compete with it.
+the fiat currencies, the central banks, are forced to change their ways, 
+otherwise their currencies will become irrelevant.  Thus, the competition forces 
+fiat currencies to become more like bitcoin, which might stop bitcoin from 
+completely replacing the fiat currency. However, the competition only becomes 
+effective when bitcoin becomes much larger. Bitcoin is simply too small at the 
+moment to change the behavior of central banks, but if it becomes 50-100× larger 
+it starts to threaten fiat currencies and so the central bankers must react to 
+bitcoin. Thus, even if bitcoin does not complete replace the dollar, its price 
+should grow to at least 10× and more likely 100× its current value before 
+central banks start acting to compete with it.
 
 
 Bitcoin is Unique
