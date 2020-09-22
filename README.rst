@@ -207,8 +207,8 @@ future.  Get one for you, one for your spouse, and one for each of your kids to
 secure all their futures.
 
 
-Displace the Dollar? Really? Just What are You Smoking?
--------------------------------------------------------
+Displace the Dollar? Really?
+----------------------------
 
 The dollar will not go quietly. Owning the worlds reserve currency is an 
 'exorbitant privilege' that allows the US to push its expenses off on to the 
@@ -334,6 +334,28 @@ threaten fiat currencies and so the central bankers must react to bitcoin. Thus,
 even if bitcoin does not complete replace the dollar, its price should grow to 
 at least 10x and more likely 100× its current value before central banks start 
 acting to compete with it.
+
+
+Bitcoin is Unique
+-----------------
+
+Many people wonder why it is that bitcoin will be the winner. After all there 
+are many cryptocurrencies, many claiming to be faster and smarter. But bitcoin 
+is unique in that it is the most decentralized. Unlike all other 
+cryptocurrencies, the creator of bitcoin, the anonymous Satoshi Nakamoto, 
+disappeared after bitcoin started gaining momentum.  Nobody that remains 
+involved in bitcoin development has the political clout to control development.  
+Instead everything is done by consensus. The result is that it is virtually 
+impossible to make substantial changes that are at all controversial. A change 
+in the issuance schedule would be hugely controversial, and so it is not 
+possible to change it.  As such, the hard-money aspects of bitcoin are 
+unassailable. It is the only one that you can count on to hold the value of your 
+investment.  That is not true with any other currency. With all other currencies 
+the creator has enough control to step back in make changes that result in loss 
+of value.  Even if such a competing currency were to be created, bitcoin has 
+a staggering lead.  It owns most of the market share, it has by far the market 
+capitalization, and it owns the lion's share of the miners. The network effect 
+virtually guarantees bitcoin will remain the dominant cryptocurrency.
 
 
 How is this going to work?
