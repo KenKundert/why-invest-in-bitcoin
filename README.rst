@@ -205,3 +205,147 @@ currently represents a modest investment of $11k.  But if bitcoin does replace
 the dollar, that small investment could provide enough money to secure your 
 future.  Get one for you, one for your spouse, and one for each of your kids to 
 secure all their futures.
+
+
+Displace the Dollar? Really? Just What are You Smoking?
+-------------------------------------------------------
+
+The dollar will not go quietly. Owning the worlds reserve currency is an 
+'exorbitant privilege' that allows the US to push its expenses off on to the 
+entire world. The US has aggressively has defended the dollar against gold for 
+a long time.  However, this battle with gold has depleted the US resources.  
+Specifically, the US has sold off much of its gold reserves in order to 
+undermine gold, keeping its price artificially low. It has not been completely 
+successful. While there are no countries still on the gold standard, other 
+countries do hold assets other than the dollar to make up their reserves; 
+including gold and the currencies of other countries.
+
+However, the tactics that the US used to undermine gold will not work nearly as 
+well against Bitcoin.  
+
+When gold started to increase in value the US would dump gold on to the market 
+to damp the rise.  This reduced the US gold reserves, which also acts to 
+undercut the rationale for using the dollar as a reserve currency.  The US is 
+currently trying to hide this situation by refusing to allow its gold reserves 
+to be audited.
+
+This strategy cannot be used against bitcoin because the US does not hold 
+a significant amount of bitcoin, and if they tried to acquire a substantial 
+amount of bitcoin, it would increase the value of bitcoin, making it stronger.
+
+The US put significant political and financial pressure on Switzerland in order 
+to force it to give up the gold standard, which was a huge symbolic victory.
+
+This strategy will be less effective against bitcoin. There are currently no 
+countries that use bitcoin as its official currency, so there are no countries 
+to target.  These tactics could be applied against corporations, but 
+corporations likely have enough political influence in Washington to undercut 
+those tactics.
+
+Bitcoin itself is impervious to political pressure because it is decentralized.  
+There is nobody to pressure.
+
+The dollar was established as the world's reserve currency in the aftermath of 
+WWII, when the US was at the peak of its financial power. That primacy has 
+eroded considerably since, which weakens the currency. Furthermore, other 
+financial powers are souring on the US use of its exorbitant privilege.  The US 
+is increasingly aggressive at using its control of the worlds financial system 
+to punish other countries.  Even its European allies are being increasingly 
+threatened with sanctions.  China is currently building up its gold reserves and 
+may be thinking of taking a run at knocking the dollar off its perch.  It has 
+tremendous incentive to do so. If the dollar can be displaced as the world's 
+reserve currency, then the US loses the exorbitant privilege that it uses to 
+finance its out-sized military, giving China a clear path to becoming the 
+dominant world power.
+
+While the dollar is losing favor as the world's reserve currency, there is no 
+obvious replacement available.  Without a dominant currency, world trade becomes 
+harder and more expensive. There will be a strong desire to find a mutually 
+acceptable replacement.  No country likes the idea of that replacement being 
+bitcoin. Authoritarian countries especially do not like the loss of control that 
+accompanies the widespread adoption of bitcoin. However, moving to bitcoin is 
+probably still more palatable than staying on the dollar or moving to the 
+currency of an economic or political adversary. At least bitcoin is neutral and 
+does not advantage their competitor.
+
+Currently bitcoin is too small to be of much use to nation states. Rather, it 
+is largely used by individuals. However, there is increasing evidence that it is 
+now being adopted by corporations. For example, `MicroStrategy 
+<https://news.bitcoin.com/nasdaq-microstrategy-bitcoin-425-million/>`_ just 
+moved $425M, the bulk of its financial reserves, into bitcoin. This is expected 
+to reduce volatility and increase its price. There is a strong advantage to 
+those like MicroStrategy that move early, so the transition is likely to be 
+rapid.  There is currently $5T in the reserves of publicly traded companies.  If 
+half of that moves into bitcoin its price will rise by at least an order of 
+magnitude.  Once the price increases by that much, bitcoin becomes large enough 
+to be interesting and useful to nation states.  At that point the first-mover 
+advantage comes into play again, but this time for countries, driving adoption 
+by nation states.
+
+The decentralized nature of bitcoin makes it an uncomfortable opponent for 
+governments.  Governments create laws and then obtain compliance by threatening 
+to punish individuals or corporations that violate their laws. Their favored 
+targets are the leaders or owners, but with bitcoin there is often no leaders or 
+owners to target.  You can see the nervousness with which governments view 
+cryptocurrency by their reaction to Libre.  They would like cryptocurrencies to 
+go away, but with bitcoin they don't know how to make that happen. However with 
+Libre they had a centralized opponent and they were seemingly quite effective at 
+knocking it back.
+
+At this point it is hard to see how any one country could stop bitcoin.  India 
+has tried to outlaw bitcoin and has been largely ineffective.  The bitcoin 
+network communicates using encrypted connections that are virtually impossible 
+to block, so as long as one has an internet connection, one can access it.  
+Outlawing bitcoin prevents bitcoin businesses from developing, but does not stop 
+individuals from transacting with bitcoin.  If a country does somehow succeed in 
+outlawing bitcoin, the bitcoin network still survives in other countries and the 
+likelihood of the adoption of bitcoin by the rest of the world would be largely 
+ineffective.
+
+The fundamental issue for the fiat currencies is their ever increasing supply.  
+If you hold an investment in a fiat currency it loses value over time.  
+Specifically, an investment in dollars loses %5 per year, which is huge. How do 
+you avoid this loss?  You have to move your money into an asset. Could be stock, 
+but stock is volatile and can involve significant risk.  Could be gold; many do 
+this. But soon it will be bitcoin. Currently bitcoin is hard for most people to 
+buy. You need accounts at special exchanges. Also, bitcoin shares the volatility 
+of stock. But over time the ease of use for bitcoin will increase dramatically 
+and the volatility will drop. Finally, the growth potential of bitcoin dwarfs 
+that of gold or stocks, which is what will drive its adoption.
+
+The only way for governments to stop the rise of bitcoin is to stop inflating 
+the supply of their fiat currencies.  That inflation is the fuel that pushes 
+people to bitcoin.  The people that control the fiat currencies have learned 
+that by printing money they can get something for nothing, so it is highly 
+unlikely that this behavior will change on its own. In fact, the only thing that 
+will change this behavior is competition from bitcoin itself.  Given a choice, 
+governments do not allow competition with their currency.  However, the 
+decentralized nature of Bitcoin makes it impossible for governments to stop.  
+Thus bitcoin provides, whether governments like it or not, a free market in 
+currency.  Once bitcoin is established, people can freely choose between bitcoin 
+or the fiat currency. Once people start choosing the bitcoin, those that control 
+the fiat currencies, the central banks, are forced to change their ways or their 
+currencies will soon become irrelevant.  Thus, the competition forces fiat 
+currencies to become more like bitcoin, which might stop bitcoin from completely 
+replacing the fiat currency. However, the competition only realizes when bitcoin 
+becomes much larger. Bitcoin is simply too small at the moment to change the 
+behavior of central banks, but if it becomes 50-100× larger it will start to 
+threaten fiat currencies and so the central bankers must react to bitcoin. Thus, 
+even if bitcoin does not complete replace the dollar, its price should grow to 
+at least 10x and more likely 100× its current value before central banks start 
+acting to compete with it.
+
+
+How is this going to work?
+--------------------------
+
+People slowly recognize that bitcoin is a good investment and acquire some. It 
+does well and so they acquire more. Those holdings increase in value until soon 
+they, and others, have a significant amounts of bitcoin.  Vendors recognize that 
+their customers are holding a lot of bitcoin, so they make it easy for people to 
+pay in bitcoin. Other companies recognize an opportunity in making it easier to 
+acquire and spent bitcoin. Credit card companies recognize that transferring 
+money using bitcoin is faster and cheaper than using dollars, and is not subject 
+to the rules and restrictions of various jurisdictions.  Thus, once people begin 
+to hold bitcoin as a store of value, the bitcoin ecosystem naturally develops.  
+Then bitcoin sets about displacing the dollar altogether.
