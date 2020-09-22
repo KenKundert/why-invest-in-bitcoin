@@ -356,17 +356,35 @@ dominant cryptocurrency.
 How is this going to work?
 --------------------------
 
-People slowly recognize that bitcoin is a good investment and acquire some. It 
-does well and so they acquire more. Those holdings increase in value until soon 
-they, and others, have a significant amounts of bitcoin.  Vendors recognize that 
-their customers are holding a lot of bitcoin, so they make it easy for people to 
-pay in bitcoin. Other companies recognize an opportunity in making it easier to 
-acquire and spent bitcoin. Credit card companies recognize that transferring 
-money using bitcoin is faster and cheaper than using dollars, and is not subject 
-to the rules and restrictions of various jurisdictions.  Thus, once people begin 
-to hold bitcoin as a store of value, the bitcoin ecosystem naturally develops.  
-Once bitcoin can do everything the dollar can do, but better, it sets about 
-displacing the dollar altogether.
+Currently most Americans are unaware of the problem of asset inflation. The 
+Federal Reserve have trained people to believe that inflation is measured with 
+the CPI. As such, most people are simply unaware that each good has its own rate 
+of inflation and most are not included in the CPI. Most important of those is 
+the inflation in assets which has averaged 5% per year for 50 years. This 
+explains why more and more people see their dreams of owning their own home 
+slipping farther and farther away.  Only the most sophisticated recognize that 
+keeping their financial reserves in cash and dollar-based assets like government 
+bonds results in their nest egg slowly melting away.  Those individuals and 
+companies are actively moving to bitcoin for capital preservation.  Adoption by 
+those people is slowly driving up the price, which is causing others to consider 
+bitcoin as a growth investment.
+
+As people slowly recognize that bitcoin is a good investment and acquire some 
+the price goes up and so they acquire more. Those holdings increase in value 
+until soon they, and others, have significant amounts of bitcoin.  Vendors 
+recognize that their customers are holding a lot of bitcoin, so they make it 
+easy for people to pay in bitcoin. Other companies recognize an opportunity in 
+making it easier to acquire and spent bitcoin. Credit card companies recognize 
+that transferring money using bitcoin is faster and cheaper than using dollars, 
+and is not subject to the rules and restrictions of various jurisdictions.  
+Thus, once people begin to hold bitcoin as a store of value, the bitcoin 
+ecosystem naturally develops.  Once bitcoin can do everything the dollar can do, 
+but better, it sets about displacing the dollar altogether.
+
+Those waiting for bitcoin to develop a fantastic payment system before adopting 
+it are making a mistake. Instead they should invest in bitcoin, and in doing so 
+they will help bitcoin develop a fantastic payment system. And they will make 
+a bunch of money while they are waiting.
 
 
 Recomendation
@@ -377,5 +395,3 @@ currently represents a modest investment of $11k.  But if bitcoin does replace
 the dollar, that small investment could provide enough money to secure your 
 future.  Get one for you, one for your spouse, and one for each of your kids to 
 secure all their futures.
-
-
