@@ -1,5 +1,5 @@
-Bitcoin versus Stock Market
-===========================
+Why Invest in Bitcoin
+=====================
 
 | Author: Ken Kundert
 | Version: 0.0.0
