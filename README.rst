@@ -353,7 +353,7 @@ the miners. The network effect virtually guarantees bitcoin will remain the
 dominant cryptocurrency.
 
 
-How is this going to work?
+How is this Going to Work?
 --------------------------
 
 Currently most Americans are unaware of the problem of asset inflation. The 
