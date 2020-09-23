@@ -211,8 +211,8 @@ a long time.  However, this battle with gold has depleted the US resources.
 Specifically, the US has sold off much of its gold reserves in order to 
 undermine gold, keeping its price artificially low. It has not been completely 
 successful. While there are no countries still on the gold standard, other 
-countries do hold assets other than the dollar to make up their reserves; 
-including gold and the currencies of other countries.
+countries hold assets other than the dollar to make up their reserves; including 
+gold and the currencies of other countries.
 
 However, the tactics that the US used to undermine gold will not work nearly as 
 well against Bitcoin.  
