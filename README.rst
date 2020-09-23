@@ -330,7 +330,7 @@ should grow to at least 10× and more likely 100× its current value before
 central banks start acting to compete with it.
 
 
-Bitcoin is Unique
+Bitcoin Is Unique
 -----------------
 
 Many people wonder why it is that bitcoin will be the winner. After all there 
@@ -353,7 +353,7 @@ the miners. The network effect virtually guarantees bitcoin will remain the
 dominant cryptocurrency.
 
 
-How is this Going to Work?
+How Is This Going to Work?
 --------------------------
 
 Currently most Americans are unaware of the problem of asset inflation. The 
