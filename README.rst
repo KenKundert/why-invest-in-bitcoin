@@ -206,7 +206,7 @@ Displace the Dollar? Really?
 
 The dollar will not go quietly. Owning the worlds reserve currency is an 
 'exorbitant privilege' that allows the US to push its expenses off on to the 
-entire world. The US has aggressively has defended the dollar against gold for 
+entire world. The US has aggressively defended the dollar against gold for 
 a long time.  However, this battle with gold has depleted the US resources.  
 Specifically, the US has sold off much of its gold reserves in order to 
 undermine gold, keeping its price artificially low. It has not been completely 
