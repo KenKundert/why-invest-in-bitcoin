@@ -128,18 +128,19 @@ adopted, solves the inflation problem by simply eliminating inflation.
 Bitcoin
 -------
 
-To understand bitcoin it important to understand that the value of almost all 
-assets is based on their scarcity.  This did not used to be true with equities 
-in the stock market.  Many years ago the holders of equities were rewarded with 
-dividends, meaning that it was worthwhile to hold the stocks even if the price 
-of the stock did not change. But over time things changed and now the rewards 
-from holding stock usually come from price appreciation rather than from 
-dividends.  For the price of stock to appreciate, the shares must be in demand 
-and they must be scarce. The fewer the shares, the larger the fraction of 
-ownership of the company that each share represents.  Indeed, the current run up 
-of the stock market is due at least in part to stock buy backs. Buy backs 
-increase the scarcity of the shares, increasing their value.  Conversely, 
-companies can issue new shares, which tends to reduce the value of all shares.
+To understand bitcoin it important to understand that today bitcoin is more of 
+of an asset than an currency, and the value of almost all assets is based on 
+their scarcity.  This did not used to be true with equities in the stock market.  
+Many years ago the holders of equities were rewarded with dividends, meaning 
+that it was worthwhile to hold the stocks even if the price of the stock did not 
+change.  But over time things changed and now the rewards from holding stock 
+usually come from price appreciation rather than from dividends.  For the price 
+of stock to appreciate, the shares must be in demand and they must be scarce.  
+The fewer the shares, the larger the fraction of ownership of the company that 
+each share represents.  Indeed, the current run up of the stock market is due at 
+least in part to stock buy backs. Buy backs increase the scarcity of the shares, 
+increasing their value.  Conversely, companies can issue new shares, which tends 
+to reduce the value of all shares.
 
 All desirable assets combine demand with scarcity. I mention this because many 
 people question bitcoin's validity as an asset.  But bitcoin provides tremendous 
@@ -173,9 +174,9 @@ expect to benefit handsomely, just like the insiders that were able to get into
 Google and Facebook early.
 
 To understand the potential of bitcoin, realize that 21M is the maximum number 
-of bitcoin that will ever exists.  Currently (September 2020) there are 18.5M.  
-I will approximate both of these numbers as 20M.  The current price is $11k, 
-meaning that the total value of all bitcoin is roughly $220G. Estimates for the 
+of bitcoin that will ever exist.  Currently (September 2020) there are 18.5M.  
+I will approximate both of these numbers as 20M.  The current price is $10k, 
+meaning that the total value of all bitcoin is roughly $200G. Estimates for the 
 total amount of dollars in the world economy is very roughly $200T. Thus, for 
 bitcoin to replace the dollar the total number of bitcoin must represent that 
 $200T, meaning that in doing so each bitcoin eventually becomes worth $10M.
@@ -208,17 +209,17 @@ The dollar will not go quietly. Owning the worlds reserve currency is an
 'exorbitant privilege' that allows the US to push its expenses off on to the 
 entire world. The US has aggressively defended the dollar against gold for 
 a long time.  However, this battle with gold has depleted the US resources.  
-Specifically, the US has sold off much of its gold reserves in order to 
+Specifically, the US has secretly sold off much of its gold reserves in order to 
 undermine gold, keeping its price artificially low. It has not been completely 
 successful. While there are no countries still on the gold standard, other 
 countries hold assets other than the dollar to make up their reserves; including 
 gold and the currencies of other countries.
 
 However, the tactics that the US used to undermine gold will not work nearly as 
-well against Bitcoin.  
+well against Bitcoin.
 
 When gold started to increase in value the US would dump gold on to the market 
-to damp the rise and discourage its use.  This reduced the US gold reserves, 
+to damp its rise and discourage its use.  This reduced the US gold reserves, 
 which also acts to undercut the rationale for using the dollar as a reserve 
 currency.  The US is currently trying to hide this situation by refusing to 
 allow its gold reserves to be audited.
@@ -240,8 +241,8 @@ Bitcoin itself is impervious to political pressure because it is decentralized.
 There is nobody to pressure.
 
 The dollar was established as the world's reserve currency in the aftermath of 
-WWII, when the US was at the peak of its financial power. That primacy has 
-eroded considerably since, which weakens the currency. Furthermore, other 
+World War II, when the US was at the peak of its financial power. That primacy 
+has eroded considerably since, which weakens the currency. Furthermore, other 
 financial powers are souring on the US use of its exorbitant privilege.  The US 
 is increasingly aggressive at using its control of the worlds financial system 
 to punish other countries.  Even its European allies are being increasingly 
@@ -266,8 +267,8 @@ Currently bitcoin is too small to be of much use to nation states. Rather, it
 is largely used by individuals. However, there is increasing evidence that it is 
 now being adopted by corporations. For example, `MicroStrategy 
 <https://news.bitcoin.com/nasdaq-microstrategy-bitcoin-425-million/>`_ just 
-moved $425M, the bulk of its financial reserves, into bitcoin. This is expected 
-to reduce volatility and increase its price. There is a strong advantage to 
+moved $425M, the bulk of its financial reserves, into bitcoin. The increased 
+adoption reduces volatility and increases price.  There is a strong advantage to 
 those like MicroStrategy that move early, so the transition is likely to be 
 rapid.  There is currently $5T in the reserves of publicly traded companies.  If 
 half of that moves into bitcoin its price will rise by at least an order of 
@@ -296,16 +297,22 @@ outlawing bitcoin, the bitcoin network still survives in other countries and the
 likelihood of the adoption of bitcoin by the rest of the world would be largely 
 ineffective.
 
+The adoption by the financial industry and by corporations further reduces the 
+risk of countries trying to outlaw bitcoin. It makes bitcoin look less like 
+a threat and more like just another asset.  It also means that countries will 
+harm their economies if they make it harder to use bitcoin.
+
 The fundamental issue for the fiat currencies is their ever increasing supply.  
 If you hold an investment in a fiat currency it loses value over time.  
 Specifically, an investment in dollars loses %5 per year, which is huge. How do 
-you avoid this loss?  You have to move your money into an asset. Could be stock, 
-but stock is volatile and can involve significant risk.  Could be gold; many do 
-this. But soon it will be bitcoin. Currently bitcoin is hard for most people to 
-buy. You need accounts at special exchanges. Also, bitcoin shares the volatility 
-of stock. But over time the ease of use for bitcoin will increase dramatically 
-and the volatility will drop. Finally, the growth potential of bitcoin dwarfs 
-that of gold or stocks, which is what will drive its adoption.
+you avoid this loss?  You have to move your money into an asset. That asset 
+could be stock, but stock is volatile and can involve significant risk.  It 
+could be gold; many do this.  Soon it will be bitcoin. Currently bitcoin is hard 
+for most people to buy. You need accounts at special exchanges. Also, bitcoin 
+shares the volatility of stock. But over time the ease of use for bitcoin will 
+increase dramatically and the volatility will drop. Finally, the growth 
+potential of bitcoin dwarfs that of gold or stocks, which is what will drive its 
+adoption.
 
 The only way for governments to stop the rise of bitcoin is to stop inflating 
 the supply of their fiat currencies.  That inflation is the fuel that pushes 
@@ -325,9 +332,12 @@ completely replacing the fiat currency. However, the competition only becomes
 effective when bitcoin becomes much larger. Bitcoin is simply too small at the 
 moment to change the behavior of central banks, but if it becomes 50-100× larger 
 it starts to threaten fiat currencies and so the central bankers must react to 
-bitcoin. Thus, even if bitcoin does not complete replace the dollar, its price 
-should grow to at least 10× and more likely 100× its current value before 
-central banks start acting to compete with it.
+bitcoin. They start to compete with bitcoin by lowering the inflation in their 
+currencies to negligible levels. That slows the growth of bitcoin, but at that 
+point bitcoin has already grown substantially. Thus, even if bitcoin does not 
+completely replace the dollar, its price should grow to at least 10× and more 
+likely 100× its current value before central banks react.  Investing in bitcoin 
+will be tremendously rewarding even it never completely displaces the dollar.
 
 
 Bitcoin Is Unique
@@ -339,18 +349,19 @@ is unique in that it is the most decentralized. Unlike all other
 cryptocurrencies, the creator of bitcoin, the anonymous Satoshi Nakamoto, 
 disappeared after bitcoin started gaining momentum.  Nobody that remains 
 involved in bitcoin development has the political clout to control development.  
-Instead everything is done by consensus. The result is that it is virtually 
-impossible to make substantial changes that are at all controversial. A change 
+Instead everything is done by consensus. The result is that while it is possible 
+to make enhancements that are widely recognized as upgrades, it is virtually 
+impossible to make substantial changes that are at all controversial.  A change 
 in the issuance schedule would be hugely controversial, and so it is not 
 possible to change it.  As such, the hard-money aspects of bitcoin are 
 unassailable. It is the only currency that you can count on to hold the value of 
-your investment. With all other currencies the creator has enough control to 
-step back in make changes that result in loss of value, as central banks do with 
-fiat currencies today.  Even if such a competing hard-currency were to be 
-created, bitcoin has a staggering lead.  It owns most of the market share, it 
-has by far the largest market capitalization, and it owns the lion's share of 
-the miners. The network effect virtually guarantees bitcoin will remain the 
-dominant cryptocurrency.
+your investment.  With all other currencies the creator has enough control to 
+step in make changes that result in loss of value, as central banks do with fiat 
+currencies today.  Even if such a competing hard-currency were to be created, 
+bitcoin has a staggering lead.  It owns most of the market share, it has by far 
+the largest market capitalization, and it owns the lion's share of the miners. 
+The network effect virtually guarantees bitcoin will remain the dominant 
+cryptocurrency.
 
 
 How Is This Going to Work?
@@ -361,7 +372,7 @@ Federal Reserve have trained people to believe that inflation is measured with
 the CPI. As such, most people are simply unaware that each good has its own rate 
 of inflation and most are not included in the CPI. Most important of those is 
 the inflation in assets which has averaged 5% per year for 50 years. This 
-explains why more and more people see their dreams of owning their own home 
+explains why more and more people find that long-term financial security 
 slipping farther and farther away.  Only the most sophisticated recognize that 
 keeping their financial reserves in cash and dollar-based assets like government 
 bonds results in their nest egg slowly melting away.  Those individuals and 
@@ -374,12 +385,13 @@ the price goes up and so they acquire more. Those holdings increase in value
 until soon they, and others, have significant amounts of bitcoin.  Vendors 
 recognize that their customers are holding a lot of bitcoin, so they make it 
 easy for people to pay in bitcoin. Other companies recognize an opportunity in 
-making it easier to acquire and spent bitcoin. Credit card companies recognize 
+making it easier to acquire and spend bitcoin. Credit card companies recognize 
 that transferring money using bitcoin is faster and cheaper than using dollars, 
 and is not subject to the rules and restrictions of various jurisdictions.  
 Thus, once people begin to hold bitcoin as a store of value, the bitcoin 
-ecosystem naturally develops.  Once bitcoin can do everything the dollar can do, 
-but better, it sets about displacing the dollar altogether.
+ecosystem naturally develops, which causes bitcoin to take on more of the 
+attributes of currency.  Once bitcoin can do everything the dollar can do, but 
+better, it sets about displacing the dollar altogether.
 
 Those waiting for bitcoin to develop a fantastic payment system before adopting 
 it are making a mistake. Instead they should invest in bitcoin, and in doing so 
@@ -387,11 +399,14 @@ they will help bitcoin develop a fantastic payment system. And they will make
 a bunch of money while they are waiting.
 
 
-Recomendation
--------------
+Recommendation
+--------------
 
-My advice to everyone is that they should get one and hold on. A single bitcoin 
-currently represents a modest investment of $11k.  But if bitcoin does replace 
-the dollar, that small investment could provide enough money to secure your 
-future.  Get one for you, one for your spouse, and one for each of your kids to 
-secure all their futures.
+My advice to everyone is to get at least one bitcoin and hold on. A single 
+bitcoin currently represents a modest investment of $10k.  But if bitcoin does 
+replace the dollar, that small investment could provide enough money to secure 
+your future.  Get one for you, one for your spouse, and one for each of your 
+kids to secure all their futures.
+
+In addition I recommend shifting excessive cash holdings into Bitcoin.  Don't 
+believe the CPI lie, cash is losing value at a rate of 5% per year.
