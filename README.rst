@@ -409,4 +409,4 @@ your future.  Get one for you, one for your spouse, and one for each of your
 kids to secure all their futures.
 
 In addition I recommend shifting excessive cash holdings into Bitcoin.  Don't 
-believe the CPI lie, cash is losing value at a rate of 5% per year.
+believe the CPI myth, cash is losing value at a rate of 5% per year.
