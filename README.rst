@@ -363,6 +363,11 @@ the largest market capitalization, and it owns the lion's share of the miners.
 The network effect virtually guarantees bitcoin will remain the dominant 
 cryptocurrency.
 
+The way to think about this is that of all available cryptographic tokens, only 
+a few aspire to be assets, and of those bitcoin obvious winner.  The other 
+tokens are utility tokens that are focused on solving some problem other than 
+being a store of value.
+
 
 How Is This Going to Work?
 --------------------------
