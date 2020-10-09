@@ -427,13 +427,12 @@ Recent `news
 indicates that in a significant change from the past, China's state media has 
 adopted a positive posture towards bitcoin.
 
-China has been accumulating gold for some time, rumors are that they have 20,000 
-tons. The US claims to have 8,000 tons, and that might be overstated. China has 
-announced that they are developing a digital currency. An obvious assumption is 
-that their new digital currency will be backed by gold. This could be 
-devastating for the dollar. The dollar was adopted as the world's reserve 
-currency after WWII when the US had roughly 20,000 tons of gold to back the 
-dollar. If China has accumulated more gold than the US, then the digital 
+China has been accumulating gold for some time, rumors are that they may have as 
+much as 20,000 tons. The US claims to have 8,000 tons and that might be 
+overstated.  China has announced that they are developing a digital currency.
+This could be devastating for the dollar. The dollar was adopted as the world's 
+reserve currency after WWII when the US had roughly 20,000 tons of gold to back 
+the dollar. If China has accumulated more gold than the US, then the digital 
 renminbi suddenly becomes a safer choice as a reserve currency. But the US still 
 controls the worldwide financial payment systems. If China can get its digital 
 currency established, then suddenly there is an alternative system that is 
