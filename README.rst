@@ -427,8 +427,8 @@ Recent `news
 indicates that in a significant change from the past, China's state media has 
 adopted a positive posture towards bitcoin.
 
-China has been accumulating gold for some time, rumors are that they may have as 
-much as 20,000 tons. The US claims to have 8,000 tons and that might be 
+China has been accumulating gold for some time.  Rumors are that they may have 
+as much as 20,000 tons. The US claims to have 8,000 tons and that might be 
 overstated.  China has announced that they are developing a digital currency.
 This could be devastating for the dollar. The dollar was adopted as the world's 
 reserve currency after WWII when the US had roughly 20,000 tons of gold to back 
@@ -446,7 +446,10 @@ bitcoin is not desirable because it cannot be controlled, but it is much better
 than a US controlled reserve currency.  The other reason they have adopted 
 a positive attitude towards bitcoin is that they may be accumulating it to 
 further beef up their reserves. As I mentioned previously, there is a tremendous 
-first mover advantage in doing so.
+first mover advantage in doing so.  If China can accumulate a large amount of 
+bitcoin, they can establish it as an accepted reserve asset. Then as other 
+countries catch on and try to accumulate their own bitcoin, their actions makes 
+China richer, further establishing it as the dominant financial power.
 
 
 8 October 2020
