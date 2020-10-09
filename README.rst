@@ -443,13 +443,15 @@ not confident that nations will switch from one fiat reserve currency to
 another, especially now that a viable alternative exists, so they are hedging 
 their bets.  From China's perspective, a decentralized reserve currency like 
 bitcoin is not desirable because it cannot be controlled, but it is much better 
-than a US controlled reserve currency.  The other reason they have adopted 
-a positive attitude towards bitcoin is that they may be accumulating it to 
-further beef up their reserves. As I mentioned previously, there is a tremendous 
-first mover advantage in doing so.  If China can accumulate a large amount of 
-bitcoin, they can establish it as an accepted reserve asset. Then as other 
-countries catch on and try to accumulate their own bitcoin, their actions makes 
-China richer, further establishing it as the dominant financial power.
+than a US controlled reserve currency, and with their tight control on their own 
+economy, they may feel comfortable they can prevent if from being adopted for 
+day to day spending with China.  The other reason they have adopted a positive 
+attitude towards bitcoin is that they may be accumulating it to further beef up 
+their reserves.  As I mentioned previously, there is a tremendous first mover 
+advantage in doing so.  If China and its population can accumulate a large 
+amount of bitcoin, they can establish it as an accepted reserve asset. Then as 
+other countries catch on and try to accumulate their own bitcoin, their actions 
+makes China richer, further establishing it as the dominant financial power.
 
 
 8 October 2020
