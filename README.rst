@@ -347,9 +347,9 @@ Many people wonder why it is that bitcoin will be the winner. After all there
 are many cryptocurrencies, many claiming to be faster and smarter.  However, the 
 first thing to recognize is that of all the available cryptographic tokens, only 
 a few aspire to be assets, and of those, bitcoin is the obvious winner.  The 
-other tokens are utility tokens that are focused on solving some problem other 
-than being a store of value.  But bitcoin is unique and will win because it is 
-the most decentralized.  Unlike all other cryptocurrencies, the creator of 
+remaining tokens are utility tokens that are focused on solving some problem 
+other than being a store of value.  But bitcoin is unique and will win because 
+it is the most decentralized.  Unlike all other cryptocurrencies, the creator of 
 bitcoin, the anonymous Satoshi Nakamoto, disappeared after bitcoin started 
 gaining momentum.  Nobody that remains involved in bitcoin development has the 
 political clout to control development.  Instead everything is done by 
