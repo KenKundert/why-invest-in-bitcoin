@@ -457,7 +457,9 @@ makes China richer, further establishing it as the dominant financial power.
 8 October 2020
 """"""""""""""
 In another example of a company shifting its assets to bitcoin, Square has 
-invested $50M into bitcoin, or about 1% of Square's total assets.
+`invested $50M into bitcoin 
+<https://www.coindesk.com/square-buys-50m-in-bitcoin>`_ , or about 1% of 
+Square's total assets.
 
 In recent weeks the price of bitcoin has been remarkably stable, hovering in the 
 range $10.5k to $11k.  This may be an indication that large players are buying 
