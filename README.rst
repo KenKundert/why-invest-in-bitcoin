@@ -357,8 +357,8 @@ involved in bitcoin development has the political clout to control development.
 Instead everything is done by consensus. The result is that while it is possible 
 to make enhancements that are widely recognized as upgrades, it is virtually 
 impossible to make substantial changes that are at all controversial.  A change 
-in the issuance schedule would be hugely controversial, and so it is not 
-possible to change it.  As such, the hard-money aspects of bitcoin are 
+in the issuance schedule would be hugely controversial, and so it is simply not 
+possible to change.  As such, the hard-money aspects of bitcoin are 
 unassailable. It is the only currency that you can count on to hold the value of 
 your investment.  With all other currencies the creator has enough control to 
 step in make changes that result in loss of value, as central banks do with fiat 
