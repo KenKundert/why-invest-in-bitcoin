@@ -295,7 +295,7 @@ Outlawing bitcoin prevents bitcoin businesses from developing, but does not stop
 individuals from transacting with bitcoin.  If a country does somehow succeed in 
 outlawing bitcoin, the bitcoin network still survives in other countries and the 
 likelihood of the adoption of bitcoin by the rest of the world would be largely 
-ineffective.
+unaffected.
 
 The adoption by the financial industry and by corporations further reduces the 
 risk of countries trying to outlaw bitcoin. It makes bitcoin look less like 
@@ -344,29 +344,27 @@ Bitcoin Is Unique
 -----------------
 
 Many people wonder why it is that bitcoin will be the winner. After all there 
-are many cryptocurrencies, many claiming to be faster and smarter. But bitcoin 
-is unique in that it is the most decentralized. Unlike all other 
-cryptocurrencies, the creator of bitcoin, the anonymous Satoshi Nakamoto, 
-disappeared after bitcoin started gaining momentum.  Nobody that remains 
-involved in bitcoin development has the political clout to control development.  
-Instead everything is done by consensus. The result is that while it is possible 
-to make enhancements that are widely recognized as upgrades, it is virtually 
-impossible to make substantial changes that are at all controversial.  A change 
-in the issuance schedule would be hugely controversial, and so it is not 
-possible to change it.  As such, the hard-money aspects of bitcoin are 
-unassailable. It is the only currency that you can count on to hold the value of 
-your investment.  With all other currencies the creator has enough control to 
-step in make changes that result in loss of value, as central banks do with fiat 
-currencies today.  Even if such a competing hard-currency were to be created, 
-bitcoin has a staggering lead.  It owns most of the market share, it has by far 
-the largest market capitalization, and it owns the lion's share of the miners. 
-The network effect virtually guarantees bitcoin will remain the dominant 
-cryptocurrency.
-
-The way to think about this is that of all available cryptographic tokens, only 
-a few aspire to be assets, and of those bitcoin obvious winner.  The other 
-tokens are utility tokens that are focused on solving some problem other than 
-being a store of value.
+are many cryptocurrencies, many claiming to be faster and smarter.  However, the 
+first thing to recognize is that of all the available cryptographic tokens, only 
+a few aspire to be assets, and of those, bitcoin is the obvious winner.  The 
+other tokens are utility tokens that are focused on solving some problem other 
+than being a store of value.  But bitcoin is unique and will win because it is 
+the most decentralized.  Unlike all other cryptocurrencies, the creator of 
+bitcoin, the anonymous Satoshi Nakamoto, disappeared after bitcoin started 
+gaining momentum.  Nobody that remains involved in bitcoin development has the 
+political clout to control development.  Instead everything is done by 
+consensus. The result is that while it is possible to make enhancements that are 
+widely recognized as upgrades, it is virtually impossible to make substantial 
+changes that are at all controversial.  A change in the issuance schedule would 
+be hugely controversial, and so it is not possible to change it.  As such, the 
+hard-money aspects of bitcoin are unassailable. It is the only currency that you 
+can count on to hold the value of your investment.  With all other currencies 
+the creator has enough control to step in make changes that result in loss of 
+value, as central banks do with fiat currencies today.  Even if such a competing 
+hard-currency were to be created, bitcoin has a staggering lead.  It owns most 
+of the market share, it has by far the largest market capitalization, and it 
+owns the lion's share of the miners.  The network effect virtually guarantees 
+bitcoin will remain the dominant cryptocurrency.
 
 
 How Is This Going to Work?
