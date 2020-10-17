@@ -121,12 +121,177 @@ a substantial amount of money into the S&P 500 in 1927 for a planned retirement
 in 1980 only to find that after 50 years it only has one fifth the value in real 
 terms of what you originally invested.
 
-Now, consider an asset that promises to be more rewarding and, if widely 
-adopted, solves the inflation problem by simply eliminating inflation.
+
+Monetary Inflation and Wealth Inequality
+----------------------------------------
+
+What is the cause of this inflation? According to Milton Friedman, "Inflation is 
+always and everywhere a monetary phenomenon in the sense that it is and can be 
+produced only by a more rapid increase in the quantity of money than in output".
+To be succinct, he says inflation is always due to the quantity of money 
+increasing faster than output. Over time we as a society becomes more 
+productive, and so our output increases. Thus, if the money supply did not 
+expand we would expect deflation, or a lowering of prices over time. It is 
+through deflation that the population benefits from the increase in productivity 
+of society as a whole. In effect, your money becomes more valuable over time, 
+even if all you do with it is hide it under your mattress.  However, the central 
+banks, or in the case of the United States, the Federal Reserve, have the 
+mandate to maintain prices.  The only way to maintain prices in a deflationary 
+economy is to increase the supply of money.  Increase it enough, and you can 
+convert deflation into inflation.  Inflation is what the Fed craves. It is all 
+they talk about these days. We all know from the '70s that too much inflation is 
+bad, but according to the Fed too little is also bad, and they will save us from 
+both through their wise leadership.  However, it is important to recognize how 
+increasing the supply of money results in inflation. If you think of price as 
+the yardstick by which we measure value, then under inflation our yardstick 
+shrinks. Yes, that's right. I said it. The dollar has a `shrinkage problem 
+<https://www.youtube.com/watch?v=8DoARSlv-HU>`_.
+
+Inflation is bad for the population as a whole. It robs the population of the 
+reward that should come from increased productivity.  Now that money under your 
+mattress is losing value over time and your salary is no longer worth what it 
+used to be. So who gains from inflation, the banks and the wealthy. To 
+understand this, it is worth taking a look at how the money supply is increased.
+
+It it time to forget every thing you though about how banks work.  A common 
+believe is that a bank takes in savings and then lend out that money.  But banks 
+lend much more than they have in savings. This is because almost all banks in 
+the US are licensed by the Fed to practice fractional reserve banking, which 
+means they can lend more than they have in savings. Much more. How is it that 
+they can lend more than they have? Their license to practice fractional reserve 
+banking gives them the right to create money. So, someone comes in and asks to 
+borrow a million dollars, if they agree they simply put a million dollars into 
+their account. The million dollars did not exist before it was placed in the 
+account, and as the loan is paid off it disappears again.  This is the meaning 
+of the phrase 'monetizing debt'. Debt literally becomes money. A large portion 
+of our money supply is created by people taking out loans.  Since they are 
+creating the money they lend, there is little to constrain how much they lend.  
+Nominally there is a reserve requirement; typically 10%, which means they can 
+loan out 10 times as much as they have. But even this rule does not really limit 
+them in practice, as the Fed will simply loan them the needed reserves.  They 
+only thing that stops them from giving out a loan is the fear it might not be 
+paid back.  While the money they loan out is created without cost, they do get 
+to keep the interest paid on the loan.  In making loans they are creating our 
+money supply and then we pay them for it through interest.  They make roughly 
+50% over the life of the loan if the interest rate is 3%.  What have they done 
+for this money?  They are not risking their own funds like anyone else does when 
+they make a loan.  Essentially the borrower is paying the bank for the trouble 
+of billing them.  In a very real sense, it is as if the banks are renting our 
+money supply to us, and the right to do so was simply given to them by the Fed 
+without them having to make any investments or take any risk. It is a sweet 
+deal. In the end, the banks are incentivized to loan out more and more money, 
+which creates a larger and larger money supply.  This money flows into assets 
+such as real estate, which has the effect of making them more expensive.  Who 
+benefits from this other than the banks? Why the wealthy of course, as they are 
+the one holding the assets.  Meanwhile, the assets become more and more out of 
+reach for those who are not wealthy.
+
+There is another way the Fed creates money: quantitative easing.  In this case 
+the Fed itself creates money and uses it to buy financial instruments from the 
+banks. In the response to the Covid-19 pandemic, the Fed also bought corporate 
+bonds.  This explains why the stock market peaked in the middle of a global 
+pandemic where the economic collapse was second only to the Great Depression.  
+The Fed bought corporate bonds and the banks loaned money to corporations, and 
+the corporations used the money from both to buy their stock back, causing the 
+stock price to dramatically rise, making the shareholders and corporate 
+executives, who generally hold large stock options, a lot of money.  The banks 
+also lent money to people and corporations buying assets, causing the price of 
+all assets to rise.  For example, interest rates went down and it became easier 
+for the wealthy to get loans to buy more real estate, causing the price of real 
+estate to go up. Of course, if you were not wealthy, you were unlikely to 
+qualify for such loans.
+
+It is estimated that the initial response to the Covid crisis resulted in 
+expanding the money supply by over 20%.  For those that are not wealthy, this is 
+devastating. Imagine you are a young person new to the workforce. You have some 
+savings but no assets. On a good day those assets are receding at a rate of 5-8% 
+a year, making it extremely difficult for you to gain any wealth.  But this 
+year, the situation is much worse. Furthermore, even being their prime salary 
+growth years, they are unlikely to get 5-8% raises every year, yet alone a 20% 
+raise during an economic collapse, so they continue to fall and further behind.
+
+The Fed is a private entity that was created and has always been controlled by 
+the banks.  This brings us back to their mandate. The United States did not have 
+a central bank for more than 100 years. It was created through intense lobbying 
+by the banks in 1913.  At that time it was given the mandate to maintain price 
+stability.  Why?  With a fixed monetary supply like we had under the gold 
+standard, we end up with modest deflation.  When you have deflation, interest 
+rates tend to go to zero or perhaps even negative.  And when that happens, the 
+banks can no longer make money through loans.  Banks like inflation. Ever since 
+it was created the Fed has overseen and orchestrated a huge debasement of the 
+dollar, with the dollar now only being worth 1% of what it was worth when the 
+Fed was created.  It could not do this while we were on the gold standard, so 
+shortly after the Fed was created we began an exit from the gold standard that 
+started with Roosevelt confiscating Americans' gold in 1933 and ended with Nixon 
+repudiating the commitments the US made to the world under the Bretton Woods 
+agreement by unilaterally canceling the direct international convertibility of 
+the dollar to gold in 1971. This graph shows what happened to our `money supply 
+<https://fred.stlouisfed.org/series/BOGMBASE>`_ since 1959. It was the increases 
+that occurred before 1971 that forced the US to give up on the last vestiges of 
+the gold standard.
+
+.. image:: monetary_base_usd.svg
+    :width: 100%
+    :align: center
+
+It shows that 80% of the money supply has been created since 2008.  All of that 
+money went to the wealthy.  The progressives want to address wealth inequality 
+by taxing the rich. Perhaps it would be better to just not give them the money 
+in the first place.
+
+One more thing. You might have noticed that in the discussion of how the Fed 
+inflates the money supply that none of the new money went to fund the government 
+itself.  It all went to the banks, and from there to the large corporations and 
+wealthy individuals.  So how does the government benefit from the inflating 
+money supply?  Much of the money created by the banks goes to buy government 
+bonds.  In addition, the creation of large amount of new money by the banks 
+tends to drive down the interest rates, and the government gets the best rates.  
+This, along with the dollar being the world's reserve currency, allows the 
+federal government fund much of its operations by selling bonds.  When the bonds 
+come due, they simply sell more bonds.  Thus, the government debt is ever 
+increasing.  This ability to borrow as much as it wants without worrying about 
+paying it back allows the government to spend almost without limits.  This 
+explains how the US can afford such a large military.  Other countries are 
+giving us the money when they buy our bonds. It also explains how we can give 
+trillion dollar tax cuts for corporations and the wealthy.
+
+Milton Friedman said "inflation is taxation without legislation".  This is 
+a very important observation. What he means is that it is through inflation that 
+government can get money without legislating tax increases. Raising money 
+through legislated tax increases is very difficult to do because it is very 
+visible and is generally resisted by those being taxed.  Raising money through 
+inflation is largely invisible and so can be done without creating open 
+resistance.  To politicians in Washington, taxation via inflation is free money.  
+It allows them to spend the government's money to buy votes without without 
+paying the price that comes from raising taxes to pay the bill for their 
+largess.  However, inflation is a terribly regressive tax as it is those that 
+hold most of their wealth in cash that are hit the hardest. It is the poor that 
+hold their wealth in cash; the wealthy hold hard assets such stock and real 
+estate, whose price goes up as a result of inflation, insulating them from this 
+tax.
+
+You might be thinking, this is terrible, but the financial industry and the Fed 
+is very powerful and well connected. How could we ever dismantle such an unfair 
+system?  The answer is, through competition in the market place.  Imagine 
+introducing an alternate form of money, one that cannot be inflated.  If that 
+were to happen people would slowly move to it because it would maintain its 
+value. Currently the dollar is losing something like 5-8% of its value every 
+year. Who wants to hold that; and who wants to get paid in that. If you get paid 
+in dollars, you salary has to increase by 5-8% a year just to keep up.  
+A currency that cannot be inflated is referred to as a hard currency, and those 
+that can be inflated are soft currencies. Hard currencies always dominate over 
+soft currencies if there is a choice. Just like gold dominated glass beads in 
+Africa and wampum shells in America, this new currency will dominate the dollar.
+The dollar will simply fade away, and the tremendous wealth inequality it 
+creates will fade away with it.
 
 
 Bitcoin
 -------
+
+Now, consider an asset that promises to be more rewarding and, if widely 
+adopted, solves the inflation problem and addresses the wealth inequality issue 
+by simply eliminating inflation.
 
 To understand bitcoin it important to understand that today bitcoin is more of 
 an asset than a currency, and the value of almost all assets is based on their 
@@ -326,18 +491,19 @@ Thus bitcoin provides, whether governments like it or not, a free market in
 currency.  Once bitcoin is established, people can freely choose between bitcoin 
 or the fiat currency. Once people start choosing the bitcoin, those that control 
 the fiat currencies, the central banks, are forced to change their ways, 
-otherwise their currencies will become irrelevant.  Thus, the competition forces 
-fiat currencies to become more like bitcoin, which might stop bitcoin from 
-completely replacing the fiat currency. However, the competition only becomes 
-effective when bitcoin becomes much larger. Bitcoin is simply too small at the 
-moment to change the behavior of central banks, but if it becomes 50-100× larger 
-it starts to threaten fiat currencies and so the central bankers must react to 
-bitcoin. They start to compete with bitcoin by lowering the inflation in their 
-currencies to negligible levels. That slows the growth of bitcoin, but at that 
-point bitcoin has already grown substantially. Thus, even if bitcoin does not 
-completely replace the dollar, its price should grow to at least 10× and more 
-likely 100× its current value before central banks react.  Investing in bitcoin 
-will be tremendously rewarding even it never completely displaces the dollar.
+otherwise their currencies quickly become irrelevant.  Thus, the competition 
+forces fiat currencies to become more like bitcoin, which might stop bitcoin 
+from completely replacing the fiat currency. However, the competition only 
+becomes effective when bitcoin becomes much larger. Bitcoin is simply too small 
+at the moment to change the behavior of central banks, but if it becomes 50-100× 
+larger it starts to threaten fiat currencies and so the central bankers must 
+react to bitcoin. They start to compete with bitcoin by lowering the inflation 
+in their currencies to negligible levels. That slows the growth of bitcoin, but 
+at that point bitcoin has already grown substantially. Thus, even if bitcoin 
+does not completely replace the dollar, its price should grow to at least 10× 
+and more likely 100× its current value before central banks react.  Investing in 
+bitcoin will be tremendously rewarding even it never completely displaces the 
+dollar.
 
 
 Bitcoin Is Unique
@@ -463,6 +629,24 @@ Square's total assets.
 
 In recent weeks the price of bitcoin has been remarkably stable, hovering in the 
 range $10.5k to $11k.  This may be an indication that large players are buying 
-large amounts. When MicroStrategy bought $500M in bitcoin, it set a price and 
+large amounts. When MicroStrategy bought $500M in bitcoin it set a price and 
 then bought whenever the price dropped below that price. This acts to set 
 a lower bound for the price during the duration of the buy.
+
+
+15 October 2020
+"""""""""""""""
+
+Besides corporations moving their cash hoards into Bitcoin, investment firms are 
+also accumulating bitcoin.  For example, in May hedge fund manager Paul Tutor 
+Jones of Tutor Investments has indicated he has `invested 1-2% of his assets in 
+bitcoin
+<https://www.cnbc.com/2020/05/11/paul-tudor-jones-calls-bitcoin-a-great-speculation-says-he-has-almost-2percent-of-his-assets-in-it.html>`_
+after calling it "the fastest horse in the race".
+
+Recently, Grayscale Investement Trust has disclosed that it has `amassed $720 
+million in bitcoin 
+<https://bitcoinist.com/macro-investor-sees-bitcoin-supply-deficit-as-grayscale-boosts-stockpiling>`_.
+In addition, it claims that in 2Q20 it acquired 70% of the mining supply of 
+bitcoin and in 3Q20 it acquired 77%.  With one company consuming the majority of 
+the mining supply, any remaining net accumulation causes the price to rise.

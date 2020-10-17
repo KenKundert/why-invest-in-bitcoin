@@ -21,13 +21,14 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
 # Globals {{{1
-data = dict(
-    dow = dict(name='Dow', color='tab:blue'),
-    gold = dict(name='Gold', color='orange'),
-    sp500 = dict(name='S&P 500', color='darkgreen'),
-    nasdaq = dict(name='Nasdaq', color='darkmagenta'),
-    btc = dict(name='BTC', color='darkturquoise'),
-)
+data = {
+    'dow': dict(name='Dow', color='tab:blue'),
+    'gold': dict(name='Gold', color='orange'),
+    'sp500': dict(name='S&P 500', color='darkgreen'),
+    'nasdaq': dict(name='Nasdaq', color='darkmagenta'),
+    'btc': dict(name='BTC', color='darkturquoise'),
+    'monetary base': dict(name='Monetary Base', color='darkred'),
+}
 normalized = {k: v.copy() for k, v in data.items() if k != 'btc'}
 
 # Read command line {{{1
@@ -36,6 +37,7 @@ display_results = not cmdline['--no-graph']
 show_in_dollars = cmdline['--dollars']
 show_in_gold = cmdline['--gold']
 show_btc = True
+show_monetary_base = True
 if not show_in_dollars and not show_in_gold:
     show_in_dollars = show_in_gold = True
 
@@ -140,7 +142,7 @@ if show_in_dollars:
             axis.set(
                 xlabel = 'year',
                 ylabel = 'price',
-                title = f"Price of {name} in Dollars"
+                title = f"{name} in Dollars"
             )
         fit_label = f"{name} growth = {data[each]['rate']:.2%}"
         axis.plot(
@@ -163,7 +165,7 @@ if show_in_dollars:
                 ticker.FuncFormatter(lambda v, p: Quantity(v, '$').render())
             )
             axis.legend()
-            figure.savefig(each + '_usd.svg')
+            figure.savefig(each.replace(' ', '_') + '_usd.svg')
 
     if display_results:
         axis.set_yscale('log')
@@ -193,7 +195,7 @@ if show_in_gold:
             axis.set(
                 xlabel = 'year',
                 ylabel = 'price',
-                title = f"Price of {name} in Ounces of Gold"
+                title = f"{name} in Ounces of Gold"
             )
         fit_label = f"{normalized[each]['name']} growth = {normalized[each]['rate']:.2%}"
         axis.plot(
@@ -216,7 +218,7 @@ if show_in_gold:
                 ticker.FuncFormatter(lambda v, p: Quantity(v, 'oz').render())
             )
             axis.legend()
-            figure.savefig(each + '_auoz.svg')
+            figure.savefig(each.replace(' ', '_') + '_auoz.svg')
 
     if display_results:
         axis.set_yscale('log')
@@ -228,7 +230,7 @@ if show_in_gold:
 if show_btc:
     def date_to_real(date):
         y, m, d = date.split('-')
-        return int(y) + int(m)/12 + int(d)/365
+        return int(y) + (int(m)-1)/12 + (int(d)-1)/365
     prices = {
         date_to_real(k): Quantity(v, '$')
         for k, v in raw_data['btc']['prices'].items()
@@ -236,13 +238,12 @@ if show_btc:
     years = list(prices.keys())
     values = list(prices.values())
 
-
     figure = plt.figure()
     axis = figure.add_subplot(111)
     axis.set(
         xlabel = 'year',
         ylabel = 'price',
-        title = 'BTC Price in Dollars'
+        title = 'Bitcoin in Dollars'
     )
     name = data['btc']['name']
     axis.plot(
