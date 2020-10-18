@@ -275,7 +275,7 @@ tax.
 You might be thinking, this is terrible, but the financial industry and the Fed 
 are very powerful and well connected. How could we ever dismantle such an unfair 
 system?  The answer is, through competition in the market place.  Imagine 
-introducing an alternate form of money, one that cannot be inflated.  If that 
+introducing an alternate form of money; one that cannot be inflated.  If that 
 were to happen people would slowly move to it because it would maintain its 
 value. Currently the dollar is losing something like 5-8% of its value every 
 year. Who wants to hold that; and who wants to get paid in that. If you get paid 
