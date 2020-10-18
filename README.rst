@@ -166,7 +166,7 @@ a million dollars into the borrower's account. The million dollars did not exist
 before it was placed in the account, and as the loan is paid off it disappears 
 again.  This is the meaning of the phrase 'monetizing debt'. Debt literally 
 becomes money.  A large portion of our money supply is created by people taking 
-out loans.  Since they are creating the money they lend, there is little to 
+out loans.  Since the banks are creating the money they lend, there is little to 
 constrain how much they lend.  Nominally there is a reserve requirement; 
 typically 10%, which means they can loan out 10 times as much as they have. But 
 even this rule does not really limit them in practice, as the Fed will simply 
