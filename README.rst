@@ -494,8 +494,8 @@ governments do not allow competition with their currency.  However, the
 decentralized nature of Bitcoin makes it impossible for governments to stop.  
 Thus bitcoin provides, whether governments like it or not, a free market in 
 currency.  Once bitcoin is established, people can freely choose between bitcoin 
-or the fiat currency. Once people start choosing the bitcoin, those that control 
-the fiat currencies, the central banks, are forced to change their ways, 
+and the fiat currency. Once people start choosing the bitcoin, those that 
+control the fiat currencies, the central banks, are forced to change their ways, 
 otherwise their currencies quickly become irrelevant.  Thus, the competition 
 forces fiat currencies to become more like bitcoin, which might stop bitcoin 
 from completely replacing the fiat currency. However, the competition only 
