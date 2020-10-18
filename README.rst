@@ -549,12 +549,12 @@ the CPI. As such, most people are simply unaware that each good has its own rate
 of inflation and most are not included in the CPI. Most important of those is 
 the inflation in assets which has averaged 5% per year for 50 years. This 
 explains why more and more people find that long-term financial security 
-slipping farther and farther away.  Only the most sophisticated recognize that 
-keeping their financial reserves in cash and dollar-based assets like government 
-bonds results in their nest egg slowly melting away.  Those individuals and 
-companies are actively moving to bitcoin for capital preservation.  Adoption by 
-those people is slowly driving up the price, which is causing others to consider 
-bitcoin as a growth investment.
+slipping farther and farther away.  Those people will look for investments to 
+help them keep up.  Those that move to bitcoin will do well, those that do not 
+will not do as well.  That will not go unnoticed. People many not understand why 
+bitcoin keeps going up, but they recognize that it does and decide they should 
+own some.  Adoption by those people drives up the price, which causes others to 
+move to bitcoin.
 
 As people slowly recognize that bitcoin is a good investment and acquire some 
 the price goes up and so they acquire more. Those holdings increase in value 
@@ -615,14 +615,15 @@ another, especially now that a viable alternative exists, so they are hedging
 their bets.  From China's perspective, a decentralized reserve currency like 
 bitcoin is not desirable because it cannot be controlled, but it is much better 
 than a US controlled reserve currency, and with their tight control on their own 
-economy, they may feel comfortable they can prevent if from being adopted for 
-day to day spending with China.  The other reason they have adopted a positive 
-attitude towards bitcoin is that they may be accumulating it to further beef up 
-their reserves.  As I mentioned previously, there is a tremendous first mover 
-advantage in doing so.  If China and its population can accumulate a large 
-amount of bitcoin, they can establish it as an accepted reserve asset. Then as 
-other countries catch on and try to accumulate their own bitcoin, their actions 
-makes China richer, further establishing it as the dominant financial power.
+economy, they may feel comfortable that they can prevent it from being adopted 
+for day to day spending with China.  The other reason they have adopted 
+a positive attitude towards bitcoin is that they may be accumulating it to 
+further beef up their reserves.  As I mentioned previously, there is 
+a tremendous first mover advantage in doing so.  If China and its population can 
+accumulate a large amount of bitcoin, they can establish it as an accepted 
+reserve asset. Then as other countries catch on and try to accumulate their own 
+bitcoin, their actions makes China richer, further establishing it as the 
+dominant financial power.
 
 
 8 October 2020
