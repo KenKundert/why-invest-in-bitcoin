@@ -148,10 +148,11 @@ shrinks. Yes, that's right. I said it. The dollar has a `shrinkage problem
 <https://www.youtube.com/watch?v=8DoARSlv-HU>`_.
 
 Inflation is bad for the population as a whole. It robs the population of the 
-reward that should come from increased productivity.  Now that money under your 
-mattress is losing value over time and your salary is no longer worth what it 
-used to be. So who gains from inflation, the banks and the wealthy. To 
-understand this, it is worth taking a look at how the money supply is increased.
+reward that should come from increased productivity.  Now that money in your 
+bank account, or under your mattress, is losing value over time and your salary 
+is no longer worth what it used to be. So who gains from inflation, the banks 
+and the wealthy. To understand this, it is worth taking a look at how the money 
+supply is increased.
 
 It it time to forget every thing you though about how banks work.  A common 
 believe is that a bank takes in savings and then lend out that money.  But banks 
@@ -271,7 +272,7 @@ estate, whose price goes up as a result of inflation, insulating them from this
 tax.
 
 You might be thinking, this is terrible, but the financial industry and the Fed 
-is very powerful and well connected. How could we ever dismantle such an unfair 
+are very powerful and well connected. How could we ever dismantle such an unfair 
 system?  The answer is, through competition in the market place.  Imagine 
 introducing an alternate form of money, one that cannot be inflated.  If that 
 were to happen people would slowly move to it because it would maintain its 
@@ -282,16 +283,19 @@ A currency that cannot be inflated is referred to as a hard currency, and those
 that can be inflated are soft currencies. Hard currencies always dominate over 
 soft currencies if there is a choice. Just like gold dominated glass beads in 
 Africa and wampum shells in America, this new currency will dominate the dollar.
-The dollar will simply fade away, and the tremendous wealth inequality it 
-creates will fade away with it.
+Fiat currencies generally do not face competition as governments fiercely defend 
+their monetary monopolies. However, bitcoin is a new hard currency alternative 
+that cannot be stopped by fiat. If history repeats itself, the dollar will 
+simply fade away, and the tremendous wealth inequality it creates will fade away 
+with it.
 
 
 Bitcoin
 -------
 
-Now, consider an asset that promises to be more rewarding and, if widely 
-adopted, solves the inflation problem and addresses the wealth inequality issue 
-by simply eliminating inflation.
+Now, consider bitcoin, an asset that promises to be more rewarding and, if 
+widely adopted, solves the inflation problem and addresses the wealth inequality 
+issue by simply eliminating inflation.
 
 To understand bitcoin it important to understand that today bitcoin is more of 
 an asset than a currency, and the value of almost all assets is based on their 
@@ -326,10 +330,10 @@ bitcoin in the future.  Unlike fiat currencies, bitcoin is not subject to
 devaluation due to an inflating supply.  For these reasons, bitcoin is superior 
 money and is now competing on the open market with government mandated 
 currencies that lose value over time.  In the last 50 years the US dollar has 
-been losing roughly 5% of its value every year.  Once people begin to recognize 
-that bitcoin is superior money and is available to them, they will begin to 
-switch. Since bitcoin is scarce, the increasing demand causes bitcoin to 
-increase in value, which encourages more to switch.  This positive feedback 
+been losing roughly 5-8% of its value every year.  Once people begin to 
+recognize that bitcoin is superior money and is available to them, they will 
+begin to switch. Since bitcoin is scarce, the increasing demand causes bitcoin 
+to increase in value, which encourages more to switch.  This positive feedback 
 suggests that once a threshold is reached, the transition to bitcoin will be 
 swift, which will result in a rapid and dramatic increase in the value of each 
 bitcoin.  This positive feedback is part of the network effect that is common to 
