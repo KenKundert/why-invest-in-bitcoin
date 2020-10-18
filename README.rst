@@ -161,31 +161,32 @@ banks in the US are licensed by the Fed to practice fractional reserve banking,
 which means they can lend more than they have in savings. Much more. How is it 
 that they can lend more than they have? Their license to practice fractional 
 reserve banking gives them the right to create money. So, someone comes in and 
-asks to borrow a million dollars, if they agree they simply put a million 
-dollars into their account. The million dollars did not exist before it was 
-placed in the account, and as the loan is paid off it disappears again.  This is 
-the meaning of the phrase 'monetizing debt'. Debt literally becomes money.  
-A large portion of our money supply is created by people taking out loans.  
-Since they are creating the money they lend, there is little to constrain how 
-much they lend.  Nominally there is a reserve requirement; typically 10%, which 
-means they can loan out 10 times as much as they have. But even this rule does 
-not really limit them in practice, as the Fed will simply loan them the needed 
-reserves.  They only thing that stops them from giving out a loan is the fear it 
-might not be paid back.  While the money they loan out is created without cost, 
-they do get to keep the interest paid on the loan.  In making loans they are 
-creating our money supply and then we pay them for it through interest.  They 
-make roughly 50% over the life of the loan if the interest rate is 3%.  What 
-have they done for this money?  They are not risking their own funds like anyone 
-else does when they make a loan.  Essentially the borrower is paying the bank 
-for the trouble of billing them.  In a very real sense, it is as if the banks 
-are renting our money supply to us, and the right to do so was simply given to 
-them by the Fed without them having to make any investments or take any risk. It 
-is a sweet deal. In the end, the banks are incentivized to loan out more and 
-more money, which creates a larger and larger money supply.  This money flows 
-into assets such as real estate, which has the effect of making them more 
-expensive.  Who benefits from this other than the banks? Why the wealthy of 
-course, as they are the one holding the assets.  Meanwhile, the assets become 
-more and more out of reach for those who are not wealthy.
+asks to borrow a million dollars, if the bank agrees agree they simply put 
+a million dollars into the borrower's account. The million dollars did not exist 
+before it was placed in the account, and as the loan is paid off it disappears 
+again.  This is the meaning of the phrase 'monetizing debt'. Debt literally 
+becomes money.  A large portion of our money supply is created by people taking 
+out loans.  Since they are creating the money they lend, there is little to 
+constrain how much they lend.  Nominally there is a reserve requirement; 
+typically 10%, which means they can loan out 10 times as much as they have. But 
+even this rule does not really limit them in practice, as the Fed will simply 
+loan them the needed reserves.  They only thing that stops them from giving out 
+a loan is the fear it might not be paid back.  While the money they loan out is 
+created without cost, they do get to keep the interest paid on the loan.  In 
+making loans they are creating our money supply and then we pay them for it 
+through interest.  They make roughly 50% over the life of the loan if the 
+interest rate is 3%.  What have they done for this money?  They are not risking 
+their own funds like anyone else does when they make a loan.  Essentially the 
+borrower is paying the bank for the trouble of billing them.  In a very real 
+sense, it is as if the banks are renting our money supply to us, and the right 
+to do so was simply given to them by the Fed without them having to make any 
+investments or take any risk. It is a sweet deal. In the end, the banks are 
+incentivized to loan out more and more money, which creates a larger and larger 
+money supply.  This money flows into assets such as real estate, which has the 
+effect of making them more expensive.  Who benefits from this other than the 
+banks? Why the wealthy of course, as they are the one holding the assets.  
+Meanwhile, the assets become more and more out of reach for those who are not 
+wealthy.
 
 There is another way the Fed creates money: quantitative easing.  In this case 
 the Fed itself creates money and uses it to buy financial instruments from the 
