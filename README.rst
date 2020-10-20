@@ -656,3 +656,14 @@ million in bitcoin
 In addition, it claims that in 2Q20 it acquired 70% of the mining supply of 
 bitcoin and in 3Q20 it acquired 77%.  With one company consuming the majority of 
 the mining supply, any remaining net accumulation causes the price to rise.
+
+On another topic, a new article by `Forbes 
+<https://www.forbes.com/sites/stevenehrlich/2020/10/15/not-a-cold-war-china-is-using-a-digital-currency-insurgency-to-unseat-the-us-dollar/#5504d373748a>`_ 
+describes how China is trying to unseat the dollar as the worlds primary 
+currency and replace it with the yuan.  It gives a more complete account of the 
+approach China is using and the obstacles they still must overcome.  Their 
+conclusion: "One day the dollar’s hegemony will be ended, either by the digital 
+yuan, bitcoin, libra, another form of money, or some combination of the above."  
+I agree. But of those choices, only bitcoin is hard money, and so only bitcoin 
+stops the terrible exploitation of the world's population by the rich and 
+powerful.
