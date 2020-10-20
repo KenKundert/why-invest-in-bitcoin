@@ -650,7 +650,7 @@ bitcoin
 <https://www.cnbc.com/2020/05/11/paul-tudor-jones-calls-bitcoin-a-great-speculation-says-he-has-almost-2percent-of-his-assets-in-it.html>`_
 after calling it "the fastest horse in the race".
 
-Recently, Grayscale Investement Trust has disclosed that it has `amassed $720 
+Recently, Grayscale Investment Trust has disclosed that it has `amassed $720 
 million in bitcoin 
 <https://bitcoinist.com/macro-investor-sees-bitcoin-supply-deficit-as-grayscale-boosts-stockpiling>`_.
 In addition, it claims that in 2Q20 it acquired 70% of the mining supply of 
