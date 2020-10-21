@@ -667,3 +667,14 @@ yuan, bitcoin, libra, another form of money, or some combination of the above."
 I agree. But of those choices, only bitcoin is hard money, and so only bitcoin 
 stops the terrible exploitation of the world's population by the rich and 
 powerful.
+
+
+21 October 2020
+"""""""""""""""
+
+Bitcoin took a step towards wide spread adoption today when Paypal announced 
+that they will `soon offer its U.S. customers the ability to buy, hold, sell, 
+and use bitcoin 
+<https://www.forbes.com/sites/roberthart/2020/10/21/paypal-finally-welcomes-cryptocurrencies>`_.
+Bitcoin price reacted to the news by jumping 8.5%.
+
