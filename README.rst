@@ -668,9 +668,9 @@ I agree. But of those choices, only bitcoin is hard money, and so only bitcoin
 stops the terrible exploitation of the world's population by the rich and 
 powerful.
 
-This trend is succinctly summarized in this `In Bitcoin We Trust 
+This trend is succinctly described in this `In Bitcoin We Trust 
 <https://medium.com/in-bitcoin-we-trust/the-bitcoin-rush-has-started-for-the-big-american-companies-nothing-can-stop-it-now-7cae9d48c5d3>`_ 
-article.
+article and summarized in `Bitcoin Treasuries <https://bitcointreasuries.org/>_.
 
 21 October 2020
 """""""""""""""
