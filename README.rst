@@ -587,6 +587,10 @@ kids to secure all their futures.
 In addition I recommend shifting excessive cash holdings into Bitcoin.  Don't 
 believe the CPI myth, cash is losing value at a rate of 5% per year.
 
+Finally, feel good about what you have done. Your investing in bitcoin is an 
+inportant step towards making economy more fair. It is perhaps the most 
+impactful thing you can do to help bring peace, stability, and prosperity to the 
+world.
 
 Comments and News
 -----------------
