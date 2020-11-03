@@ -700,4 +700,4 @@ $250M in bitcoin
 that since the company purchased its $425M in bitcoin its value has risen by 
 more that $100M, which is 25% more than they have made in the last 3.5 years of 
 business operations. In addition, their stock price has risen 38%.  All of which 
-lead other companies to follow their lead.
+should cause other companies to follow their lead.
