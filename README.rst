@@ -588,7 +588,7 @@ In addition I recommend shifting excessive cash holdings into Bitcoin.  Don't
 believe the CPI myth, cash is losing value at a rate of 5% per year.
 
 Finally, feel good about what you have done. Your investing in bitcoin is an 
-inportant step towards making economy more fair. It is perhaps the most 
+important step towards making economy more fair. It is perhaps the most 
 impactful thing you can do to help bring peace, stability, and prosperity to the 
 world.
 
@@ -676,6 +676,7 @@ This trend is succinctly described in this `In Bitcoin We Trust article
 <https://medium.com/in-bitcoin-we-trust/the-bitcoin-rush-has-started-for-the-big-american-companies-nothing-can-stop-it-now-7cae9d48c5d3>`_ 
 and summarized in `Bitcoin Treasuries <https://bitcointreasuries.org/>`_.
 
+
 21 October 2020
 """""""""""""""
 
@@ -685,3 +686,18 @@ and use bitcoin
 <https://www.forbes.com/sites/roberthart/2020/10/21/paypal-finally-welcomes-cryptocurrencies>`_.
 Bitcoin price reacted to the news by jumping 9%.
 
+
+31 October 2020
+"""""""""""""""
+It now appears `Iran is embracing bitcoin 
+<https://bitcoinft.com/new-iranian-legislation-to-fund-its-imports-by-bitcoin>`_ 
+as a way of evading US sanctions.  It will be very ironic if this ends up making 
+Iran financially stronger.
+
+Michael Saylor, CEO of MicroStrategy, just disclosed that he `personally holds 
+$250M in bitcoin 
+<https://news.bitcoin.com/microstrategy-ceo-million-bitcoin-btc-profit>`_  and 
+that since the company purchased its $425M in bitcoin its value has risen by 
+more that $100M, which is 25% more than they have made in the last 3.5 years of 
+business operations. In addition, their stock price has risen 38%.  All of which 
+lead other companies to follow their lead.
