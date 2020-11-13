@@ -461,11 +461,11 @@ At this point it is hard to see how any one country could stop bitcoin.  India
 has tried to outlaw bitcoin and has been largely ineffective.  The bitcoin 
 network communicates using encrypted connections that are virtually impossible 
 to block, so as long as one has an internet connection, one can access it.  
-Outlawing bitcoin prevents bitcoin businesses from developing, but does not stop 
-individuals from transacting with bitcoin.  If a country does somehow succeed in 
-outlawing bitcoin, the bitcoin network still survives in other countries and the 
-likelihood of the adoption of bitcoin by the rest of the world would be largely 
-unaffected.
+Outlawing bitcoin discourages local bitcoin businesses from developing, but does 
+not stop individuals from transacting with bitcoin.  If a country does somehow 
+succeed in outlawing bitcoin, the bitcoin network still survives in other 
+countries and the likelihood of the adoption of bitcoin by the rest of the world 
+would be largely unaffected.
 
 The adoption by the financial industry and by corporations further reduces the 
 risk of countries trying to outlaw bitcoin. It makes bitcoin look less like 
