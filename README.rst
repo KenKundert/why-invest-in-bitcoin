@@ -701,3 +701,13 @@ that since the company purchased its $425M in bitcoin its value has risen by
 more that $100M, which is 25% more than they have made in the last 3.5 years of 
 business operations. In addition, their stock price has risen 38%.  All of which 
 should cause other companies to follow their lead.
+
+
+10 December 2020
+""""""""""""""""
+Michael Saylor and MicroStrategy is at it again. Yesterday MicroStrategy 
+announced that they are raising $550M to buy bitcoin.  They are planning to 
+borrow from qualified institutional investors for five years and pay %0.75 
+interest on the loan.  This is a speculative attack on the dollar that is very 
+similar to the attack George Soros carried out against the Bank of England in 
+1992.  It will not be the last.
