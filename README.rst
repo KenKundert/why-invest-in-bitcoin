@@ -711,3 +711,7 @@ borrow from qualified institutional investors for five years and pay %0.75
 interest on the loan.  This is a speculative attack on the dollar that is very 
 similar to the attack George Soros carried out against the Bank of England in 
 1992.  It will not be the last.
+
+Today `MassMutual 
+<https://www.coindesk.com/massmutual-buys-100m-bitcoin-bets-on-institutional-adoption-with-5m-nydig-stake>`_ 
+announced that it has invested $100M into bitcoin.
