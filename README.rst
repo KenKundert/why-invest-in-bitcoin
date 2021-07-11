@@ -2,8 +2,8 @@ Why Invest in Bitcoin
 =====================
 
 | Author: Ken Kundert
-| Version: 0.1.0
-| Released: 2020-10-17
+| Version: 0.2.0
+| Released: 2021-07-11
 | Please post all questions, suggestions, and bug reports to
   `Github <https://github.com/KenKundert/market-returns/issues>`_.
 |
