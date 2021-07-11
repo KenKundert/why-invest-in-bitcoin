@@ -103,7 +103,7 @@ Finally, consider the Nasdaq.
     :width: 100%
     :align: center
 
-The return in terms of dollars is found to be 10.2%.
+The return in terms of dollars is found to be 10.3%.
 
 .. image:: nasdaq_auoz.svg
     :width: 100%
@@ -161,12 +161,12 @@ banks in the US are licensed by the Fed to practice fractional reserve banking,
 which means they can lend more than they have in savings. Much more. How is it 
 that they can lend more than they have? Their license to practice fractional 
 reserve banking gives them the right to create money. So, someone comes in and 
-asks to borrow a million dollars, if the bank agrees agree they simply put 
-a million dollars into the borrower's account. The million dollars did not exist 
-before it was placed in the account, and as the loan is paid off it disappears 
-again.  This is the meaning of the phrase 'monetizing debt'. Debt literally 
-becomes money.  A large portion of our money supply is created by people taking 
-out loans.  Since the banks are creating the money they lend, there is little to 
+asks to borrow a million dollars, if the bank agrees they simply put a million 
+dollars into the borrower's account. The million dollars did not exist before it 
+was placed in the account, and as the loan is paid off it disappears again.  
+This is the meaning of the phrase 'monetizing debt'. Debt literally becomes 
+money.  A large portion of our money supply is created by people taking out 
+loans.  Since the banks are creating the money they lend, there is little to 
 constrain how much they lend.  Nominally there is a reserve requirement; 
 typically 10%, which means they can loan out 10 times as much as they have. But 
 even this rule does not really limit them in practice, as the Fed will simply 
@@ -208,7 +208,7 @@ expanding the money supply by over 20%.  For those that are not wealthy, this is
 devastating. Imagine you are a young person new to the workforce. You have some 
 savings but no assets. On a good day those assets are receding at a rate of 5-8% 
 a year, making it extremely difficult for you to gain any wealth.  But this 
-year, the situation is much worse. Furthermore, even being their prime salary 
+year, the situation is much worse. Furthermore, even being in their prime salary 
 growth years, they are unlikely to get 5-8% raises every year, yet alone a 20% 
 raise during an economic collapse, so they continue to fall and further behind.
 
@@ -239,7 +239,7 @@ the gold standard.
 It shows that 80% of the money supply has been created since 2008.  All of that 
 money went to the wealthy.  The progressives want to address wealth inequality 
 by taxing the rich. Perhaps it would be better to just not give them the money 
-in the first place.
+in the first place.  Elizabeth Warren, are you listening?
 
 One more thing. You might have noticed that in the discussion of how the Fed 
 inflates the money supply that none of the new money went to fund the government 
@@ -249,8 +249,8 @@ money supply?  Much of the money created by the banks goes to buy government
 bonds.  In addition, the creation of large amount of new money by the banks 
 tends to drive down the interest rates, and the government gets the best rates.  
 This, along with the dollar being the world's reserve currency, allows the 
-federal government fund much of its operations by selling bonds.  When the bonds 
-come due, they simply sell more bonds.  Thus, the government debt is ever 
+federal government to fund much of its operations by selling bonds.  When the 
+bonds come due, they simply sell more bonds.  Thus, the government debt is ever 
 increasing.  This ability to borrow as much as it wants without worrying about 
 paying it back allows the government to spend almost without limits.  This 
 explains how the US can afford such a large military.  Other countries are 
@@ -344,25 +344,27 @@ expect to benefit handsomely, just like the insiders that were able to get into
 Google and Facebook early.
 
 To understand the potential of bitcoin, realize that 21M is the maximum number 
-of bitcoin that will ever exist.  Currently (September 2020) there are 18.5M.  
-I will approximate both of these numbers as 20M.  The current price is $10k, 
-meaning that the total value of all bitcoin is roughly $200G. Estimates for the 
-total amount of dollars in the world economy is very roughly $200T. Thus, for 
-bitcoin to replace the dollar the total number of bitcoin must represent that 
-$200T, meaning that in doing so each bitcoin eventually becomes worth $10M.
-This represents a 1000× increase. To get the same return by investing in the 5% 
-growth rate of the Nasdaq would require 140 years. 
+of bitcoin that will ever exist.  Currently (July 2021) there are 18.75M.  
+I will approximate both of these numbers as 20M.  The current price is $30k, 
+meaning that the total value of all bitcoin is roughly $600G. Estimates for the 
+total amount of dollars in the world economy is `very roughly $200T 
+<https://demonocracy.info/infographics/world/lqp/liquidity_pyramid.html>`_.  
+Thus, for bitcoin to replace the dollar the total number of bitcoin must 
+represent that $200T, meaning that in doing so each bitcoin eventually becomes 
+worth $10M.
+This represents a 300× increase. To get the same return by investing in the 5% 
+growth rate of the Nasdaq would require 120 years. 
 
 If you look at the investment alternatives to bitcoin, you find things like 
 stock, real estate, and gold.  However, all the alternatives that you know about 
 today have already run up in value. For example, consider Apple. The total value 
 of Apple stock is $2T. A great company, but just how much greater can it become?  
-To exhibit a 1000× increase, it would have to become substantially larger than 
+To exhibit a 300× increase, it would have to become substantially larger than 
 the entire world's economy.  Apple has been a great stock to own in the past, 
 but now its growth is limited; it is near the end of its range.  What is unusual 
 about bitcoin is that it is at the beginning of its range. In its 10 years of 
 life it has proven itself by remaining completely reliable while producing 
-a tremendous run up in value.  However, at 0.1% of its $200T total available 
+a tremendous run up in value.  However, at 0.3% of its $200T total available 
 market, it is still quite small.  It also benefits from the network effect, 
 which causes it both to grow quickly and repel competitors.  Bitcoin currently 
 represents an unprecedented opportunity for those that see it and seize it.
@@ -500,13 +502,13 @@ otherwise their currencies quickly become irrelevant.  Thus, the competition
 forces fiat currencies to become more like bitcoin, which might stop bitcoin 
 from completely replacing the fiat currency. However, the competition only 
 becomes effective when bitcoin becomes much larger. Bitcoin is simply too small 
-at the moment to change the behavior of central banks, but if it becomes 50-100× 
+at the moment to change the behavior of central banks, but if it becomes 20-40× 
 larger it starts to threaten fiat currencies and so the central bankers must 
 react to bitcoin. They start to compete with bitcoin by lowering the inflation 
 in their currencies to negligible levels. That slows the growth of bitcoin, but 
 at that point bitcoin has already grown substantially. Thus, even if bitcoin 
-does not completely replace the dollar, its price should grow to at least 10× 
-and more likely 100× its current value before central banks react.  Investing in 
+does not completely replace the dollar, its price should grow to at least 3× and 
+more likely 20× its current value before central banks react.  Investing in 
 bitcoin will be tremendously rewarding even it never completely displaces the 
 dollar.
 
@@ -547,14 +549,14 @@ Currently most Americans are unaware of the problem of asset inflation. The
 Federal Reserve have trained people to believe that inflation is measured with 
 the CPI. As such, most people are simply unaware that each good has its own rate 
 of inflation and most are not included in the CPI. Most important of those is 
-the inflation in assets which has averaged 5% per year for 50 years. This 
-explains why more and more people find that long-term financial security 
-slipping farther and farther away.  Those people will look for investments to 
-help them keep up.  Those that move to bitcoin will do well, those that do not 
-will not do as well.  That will not go unnoticed. People many not understand why 
-bitcoin keeps going up, but they recognize that it does and decide they should 
-own some.  Adoption by those people drives up the price, which causes others to 
-move to bitcoin.
+the inflation in assets which has averaged 5% per year for 50 years and now 
+appears to have grown to around 8%.  This explains why more and more people find 
+that long-term financial security slipping farther and farther away.  Those 
+people will look for investments to help them keep up.  Those that move to 
+bitcoin will do well, those that do not will not do as well.  That will not go 
+unnoticed.  People may not understand why bitcoin keeps going up, but they 
+recognize that it does and decide they should own some.  Adoption by those 
+people drives up the price, which causes others to move to bitcoin.
 
 As people slowly recognize that bitcoin is a good investment and acquire some 
 the price goes up and so they acquire more. Those holdings increase in value 
@@ -579,139 +581,15 @@ Recommendation
 --------------
 
 My advice to everyone is to get at least one bitcoin and hold on. A single 
-bitcoin currently represents a modest investment of $10k.  But if bitcoin does 
+bitcoin currently represents a modest investment of $30k.  But if bitcoin does 
 replace the dollar, that small investment could provide enough money to secure 
 your future.  Get one for you, one for your spouse, and one for each of your 
 kids to secure all their futures.
 
 In addition I recommend shifting excessive cash holdings into Bitcoin.  Don't 
-believe the CPI myth, cash is losing value at a rate of 5% per year.
+believe the CPI myth, cash is losing value at a rate of 8% per year.
 
 Finally, feel good about what you have done. Your investing in bitcoin is an 
 important step towards making economy more fair. It is perhaps the most 
 impactful thing you can do to help bring peace, stability, and prosperity to the 
 world.
-
-Comments and News
------------------
-
-6 October 2020
-""""""""""""""
-Recent `news 
-<https://bitcoinist.com/bitcoin-analyst-reveals-whats-holding-price-above-10k-its-china>`_
-indicates that in a significant change from the past, China's state media has 
-adopted a positive posture towards bitcoin.
-
-China has been accumulating gold for some time.  Rumors are that they may have 
-as much as 20,000 tons. The US claims to have 8,000 tons and that might be 
-overstated.  China has announced that they are developing a digital currency.
-This could be devastating for the dollar. The dollar was adopted as the world's 
-reserve currency after WWII when the US had roughly 20,000 tons of gold to back 
-the dollar. If China has accumulated more gold than the US, then the digital 
-renminbi suddenly becomes a safer choice as a reserve currency. But the US still 
-controls the worldwide financial payment systems. If China can get its digital 
-currency established, then suddenly there is an alternative system that is 
-completely outside of US control, further undermining the dollar.
-
-So why is China suddenly positive about bitcoin? My speculation is that China is 
-not confident that nations will switch from one fiat reserve currency to 
-another, especially now that a viable alternative exists, so they are hedging 
-their bets.  From China's perspective, a decentralized reserve currency like 
-bitcoin is not desirable because it cannot be controlled, but it is much better 
-than a US controlled reserve currency, and with their tight control on their own 
-economy, they may feel comfortable that they can prevent it from being adopted 
-for day to day spending with China.  The other reason they have adopted 
-a positive attitude towards bitcoin is that they may be accumulating it to 
-further beef up their reserves.  As I mentioned previously, there is 
-a tremendous first mover advantage in doing so.  If China and its population can 
-accumulate a large amount of bitcoin, they can establish it as an accepted 
-reserve asset. Then as other countries catch on and try to accumulate their own 
-bitcoin, their actions makes China richer, further establishing it as the 
-dominant financial power.
-
-
-8 October 2020
-""""""""""""""
-In another example of a company shifting its assets to bitcoin, Square has 
-`invested $50M into bitcoin 
-<https://www.coindesk.com/square-buys-50m-in-bitcoin>`_ , or about 1% of 
-Square's total assets.
-
-In recent weeks the price of bitcoin has been remarkably stable, hovering in the 
-range $10.5k to $11k.  This may be an indication that large players are buying 
-large amounts. When MicroStrategy bought $500M in bitcoin it set a price and 
-then bought whenever the price dropped below that price. This acts to set 
-a lower bound for the price during the duration of the buy.
-
-
-15 October 2020
-"""""""""""""""
-
-Besides corporations moving their cash hoards into Bitcoin, investment firms are 
-also accumulating bitcoin.  For example, in May hedge fund manager Paul Tutor 
-Jones of Tutor Investments has indicated he has `invested 1-2% of his assets in 
-bitcoin
-<https://www.cnbc.com/2020/05/11/paul-tudor-jones-calls-bitcoin-a-great-speculation-says-he-has-almost-2percent-of-his-assets-in-it.html>`_
-after calling it "the fastest horse in the race".
-
-Recently, Grayscale Investment Trust has disclosed that it has `amassed $720 
-million in bitcoin 
-<https://bitcoinist.com/macro-investor-sees-bitcoin-supply-deficit-as-grayscale-boosts-stockpiling>`_.
-In addition, it claims that in 2Q20 it acquired 70% of the mining supply of 
-bitcoin and in 3Q20 it acquired 77%.  With one company consuming the majority of 
-the mining supply, any remaining net accumulation causes the price to rise.
-
-On another topic, a new article by `Forbes 
-<https://www.forbes.com/sites/stevenehrlich/2020/10/15/not-a-cold-war-china-is-using-a-digital-currency-insurgency-to-unseat-the-us-dollar/#5504d373748a>`_ 
-describes how China is trying to unseat the dollar as the worlds primary 
-currency and replace it with the yuan.  It gives a more complete account of the 
-approach China is using and the obstacles they still must overcome.  Their 
-conclusion: "One day the dollar’s hegemony will be ended, either by the digital 
-yuan, bitcoin, libra, another form of money, or some combination of the above."  
-I agree. But of those choices, only bitcoin is hard money, and so only bitcoin 
-stops the terrible exploitation of the world's population by the rich and 
-powerful.
-
-This trend is succinctly described in this `In Bitcoin We Trust article
-<https://medium.com/in-bitcoin-we-trust/the-bitcoin-rush-has-started-for-the-big-american-companies-nothing-can-stop-it-now-7cae9d48c5d3>`_ 
-and summarized in `Bitcoin Treasuries <https://bitcointreasuries.org/>`_.
-
-
-21 October 2020
-"""""""""""""""
-
-Bitcoin took a step towards wide spread adoption today when Paypal announced 
-that they will `soon offer its U.S. customers the ability to buy, hold, sell, 
-and use bitcoin 
-<https://www.forbes.com/sites/roberthart/2020/10/21/paypal-finally-welcomes-cryptocurrencies>`_.
-Bitcoin price reacted to the news by jumping 9%.
-
-
-31 October 2020
-"""""""""""""""
-It now appears `Iran is embracing bitcoin 
-<https://bitcoinft.com/new-iranian-legislation-to-fund-its-imports-by-bitcoin>`_ 
-as a way of evading US sanctions.  It will be very ironic if this ends up making 
-Iran financially stronger.
-
-Michael Saylor, CEO of MicroStrategy, just disclosed that he `personally holds 
-$250M in bitcoin 
-<https://news.bitcoin.com/microstrategy-ceo-million-bitcoin-btc-profit>`_  and 
-that since the company purchased its $425M in bitcoin its value has risen by 
-more that $100M, which is 25% more than they have made in the last 3.5 years of 
-business operations. In addition, their stock price has risen 38%.  All of which 
-should cause other companies to follow their lead.
-
-
-10 December 2020
-""""""""""""""""
-Michael Saylor and MicroStrategy is at it again. Yesterday MicroStrategy 
-announced that they are raising $550M to buy bitcoin.  They are planning to 
-borrow from qualified institutional investors for five years and pay %0.75 
-interest on the loan.  This is a speculative attack on the dollar that is very 
-similar to the attack George Soros carried out against the Bank of England in 
-1992.  It will not be the last.
-
-Today `MassMutual 
-<https://www.coindesk.com/massmutual-buys-100m-bitcoin-bets-on-institutional-adoption-with-5m-nydig-stake>`_ 
-announced that it has invested $100M into bitcoin.

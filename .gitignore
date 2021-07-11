@@ -1,3 +1,6 @@
 .spell/*
 spell
 TODO
+BOGMBASE.csv
+convert-monitary-base.py
+indices.py
